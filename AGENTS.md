@@ -1,13 +1,31 @@
-# AGENTS.md (template — adapt per project)
+# AGENTS.md
 
 Operating guide for AI coding agents (and humans) working in this repository.
 Read this and `context.md` before making changes. The shared method lives in
-`cronologia/core` (skills: sourcing-rules, bootstrap-project, mine-video,
-dossier-research); the architecture rationale in `cronologia/fsp` → `docs/adrs/`.
+`cronologia/core` — **load the `sourcing-rules` skill
+(`.claude/skills/sourcing-rules/SKILL.md`) before touching any `data/*.json`,
+and follow the `data-edit` skill's gate for every data change: validate →
+build → test → commit data + regenerated `docs/` together.** The architecture
+rationale lives in `cronologia/fsp` → `docs/adrs/`.
 
 ## What this project is
 
-A compiled static website documenting the chronology of **<SUBJECT>**.
+A compiled static website documenting the chronology of **Jesus of
+Nazareth** as the sources date him, and of the **objects venerated as his
+relics** — when each first appears in the record, what was done to and with
+it, what laboratories found, and where it is kept today.
+
+Two rules specific to this project:
+
+- **Years before the common era are negative** (`-4` is 4 BCE; there is no
+  year 0) and ancient events carry no ISO `date` — the exact day and any
+  dispute over it go in `dateNote` (core#100).
+- **Relics follow core ADR-0007.** A record states one authority's act about
+  one named object, citing the document. Expositions, feasts, indulgences,
+  jubilees, basilicas and papal visits are acts of cult, never findings of
+  authenticity; laboratory results are their laboratory's. Suspect every
+  "the Church declared it authentic" claim and go to the document — none was
+  located for any object here (cristo#1).
 A single JSON file is the source of truth; a zero-dependency Node script
 compiles it into static HTML served by GitHub Pages.
 
