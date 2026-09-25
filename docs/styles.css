@@ -550,6 +550,7 @@ figure.approval-ladder { margin: 0 0 1rem; }
   .al-details, .al-details > *, .al-panels, .al-panel { display: block !important; }
   .al-panel[hidden] { display: block !important; }
 }
+
 /* Object catalogue (renderCatalogue): a numbered map of where each object is
    kept, then one card per object with its image and its record. */
 .cat-pin text {

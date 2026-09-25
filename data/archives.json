@@ -2,6 +2,18 @@
   "generatedBy": "scripts/archive-refs.js",
   "updatedAt": "2026-09-25",
   "snapshots": {
+    "http://www.archiviovoltosanto.org/en/node/738": {
+      "refId": "mandylion-2004",
+      "archiveUrl": "https://web.archive.org/web/20260609150514/http://www.archiviovoltosanto.org/en/node/738",
+      "timestamp": "20260609150514",
+      "checkedAt": "2026-09-25"
+    },
+    "http://www.iconesacregenova.it/il-mandylion-di-genova": {
+      "refId": "iconesacre-mandylion",
+      "archiveUrl": "https://web.archive.org/web/20260515172506/http://www.iconesacregenova.it/il-mandylion-di-genova",
+      "timestamp": "20260515172506",
+      "checkedAt": "2026-09-25"
+    },
     "https://artbonus.gov.it/il-sacro-catino.html": {
       "refId": "artbonus-sacro-catino",
       "archiveUrl": "https://web.archive.org/web/20240610054307/https://artbonus.gov.it/il-sacro-catino.html",
@@ -26,10 +38,28 @@
       "timestamp": "20260425051006",
       "checkedAt": "2026-09-25"
     },
+    "https://bible.usccb.org/bible/luke/2": {
+      "refId": "usccb-luke-2",
+      "archiveUrl": "https://web.archive.org/web/20260916001325/https://bible.usccb.org/bible/luke/2",
+      "timestamp": "20260916001325",
+      "checkedAt": "2026-09-25"
+    },
     "https://bible.usccb.org/bible/luke/3": {
       "refId": "usccb-luke-3",
       "archiveUrl": "https://web.archive.org/web/20260618112240/https://bible.usccb.org/bible/luke/3",
       "timestamp": "20260618112240",
+      "checkedAt": "2026-09-25"
+    },
+    "https://bible.usccb.org/bible/matthew/2": {
+      "refId": "usccb-matthew-2",
+      "archiveUrl": "https://web.archive.org/web/20260820225813/https://bible.usccb.org/bible/matthew/2",
+      "timestamp": "20260820225813",
+      "checkedAt": "2026-09-25"
+    },
+    "https://catedraldevalencia.es/en/cultural-visit/hours-and-admission/": {
+      "refId": "valencia-hours",
+      "archiveUrl": "https://web.archive.org/web/20260123025111/https://catedraldevalencia.es/en/cultural-visit/hours-and-admission/",
+      "timestamp": "20260123025111",
       "checkedAt": "2026-09-25"
     },
     "https://catedraldevalencia.es/en/jubilee-of-the-holy-chalice/": {
@@ -42,6 +72,24 @@
       "refId": "valencia-caliz",
       "archiveUrl": "https://web.archive.org/web/20260123025127/https://catedraldevalencia.es/en/the-holy-chalice/",
       "timestamp": "20260123025127",
+      "checkedAt": "2026-09-25"
+    },
+    "https://catedraldevalencia.es/en/the-holy-chalice/about-the-holy-chalice/": {
+      "refId": "valencia-caliz-about",
+      "archiveUrl": "https://web.archive.org/web/20260123223444/https://catedraldevalencia.es/en/the-holy-chalice/about-the-holy-chalice/",
+      "timestamp": "20260123223444",
+      "checkedAt": "2026-09-25"
+    },
+    "https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/": {
+      "refId": "cojs-caiaphas-ossuary",
+      "archiveUrl": "https://web.archive.org/web/20260519060405/https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/",
+      "timestamp": "20260519060405",
+      "checkedAt": "2026-09-25"
+    },
+    "https://deremilitari.org/2014/01/the-battle-of-hattin-1187-four-accounts/": {
+      "refId": "deremilitari-hattin",
+      "archiveUrl": "https://web.archive.org/web/20260209202602/https://deremilitari.org/2014/01/the-battle-of-hattin-1187-four-accounts/",
+      "timestamp": "20260209202602",
       "checkedAt": "2026-09-25"
     },
     "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre": {
@@ -60,6 +108,12 @@
       "refId": "wp-pilate-stone",
       "archiveUrl": "https://web.archive.org/web/20260911134616/https://en.wikipedia.org/wiki/Pilate_Stone",
       "timestamp": "20260911134616",
+      "checkedAt": "2026-09-25"
+    },
+    "https://fr.wikipedia.org/wiki/Tunique_d%27Argenteuil": {
+      "refId": "wp-argenteuil",
+      "archiveUrl": "https://web.archive.org/web/20260212002747/https://fr.wikipedia.org/wiki/Tunique_d%27Argenteuil",
+      "timestamp": "20260212002747",
       "checkedAt": "2026-09-25"
     },
     "https://ich.unesco.org/en/RL/procession-of-the-holy-blood-in-bruges-00263": {
@@ -92,10 +146,22 @@
       "timestamp": "20260415223304",
       "checkedAt": "2026-09-25"
     },
+    "https://sindone.org/2025/08/04/comunicato-custode-04082025/": {
+      "refId": "sindone-comunicato-2025",
+      "archiveUrl": "https://web.archive.org/web/20260610023419/https://sindone.org/2025/08/04/comunicato-custode-04082025/",
+      "timestamp": "20260610023419",
+      "checkedAt": "2026-09-25"
+    },
     "https://sindone.org/la-sindone/cose-la-sindone/": {
       "refId": "sindone-cose",
       "archiveUrl": "https://web.archive.org/web/20260421200610/https://sindone.org/la-sindone/cose-la-sindone/",
       "timestamp": "20260421200610",
+      "checkedAt": "2026-09-25"
+    },
+    "https://sindone.org/la-sindone/dove-la-sindone/": {
+      "refId": "sindone-dove",
+      "archiveUrl": "https://web.archive.org/web/20260421203059/https://sindone.org/la-sindone/dove-la-sindone/",
+      "timestamp": "20260421203059",
       "checkedAt": "2026-09-25"
     },
     "https://sindone.org/ostensioni/1578-2/": {
@@ -116,10 +182,34 @@
       "timestamp": "20260313234343",
       "checkedAt": "2026-09-25"
     },
+    "https://sindone.org/vita-di-fede/il-custode-della-sindone/": {
+      "refId": "sindone-custode",
+      "archiveUrl": "https://web.archive.org/web/20260521020437/https://sindone.org/vita-di-fede/il-custode-della-sindone/",
+      "timestamp": "20260521020437",
+      "checkedAt": "2026-09-25"
+    },
+    "https://sourcebooks.fordham.edu/source/cde-antioch.asp": {
+      "refId": "fordham-antioch-lance",
+      "archiveUrl": "https://web.archive.org/web/20260524022932/https://sourcebooks.fordham.edu/source/cde-antioch.asp",
+      "timestamp": "20260524022932",
+      "checkedAt": "2026-09-25"
+    },
+    "https://time.com/archive/6894352/piercing-an-ancient-tale/": {
+      "refId": "time-feather-2003",
+      "archiveUrl": "https://web.archive.org/web/20250531223459/https://time.com/archive/6894352/piercing-an-ancient-tale/",
+      "timestamp": "20250531223459",
+      "checkedAt": "2026-09-25"
+    },
     "https://vias.univie.ac.at/forschung/archaeometallurgie/projekte/die-hl-lanze-des-kunsthistorischen-museums-wien/": {
       "refId": "vias-lanze",
       "archiveUrl": "https://web.archive.org/web/20240724183659/https://vias.univie.ac.at/forschung/archaeometallurgie/projekte/die-hl-lanze-des-kunsthistorischen-museums-wien/",
       "timestamp": "20240724183659",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.armenianchurch.org/en/Museums-at-the-Mother-See": {
+      "refId": "etchmiadzin-museums",
+      "archiveUrl": "https://web.archive.org/web/20260915084727/https://www.armenianchurch.org/en/Museums-at-the-Mother-See",
+      "timestamp": "20260915084727",
       "checkedAt": "2026-09-25"
     },
     "https://www.armenianchurch.org/en/alex-marie-manoogian-museum": {
@@ -152,6 +242,12 @@
       "timestamp": "20230528073659",
       "checkedAt": "2026-09-25"
     },
+    "https://www.bistum-trier.de/kultur-musik/der-heilige-rock/geschichte-der-tunika/index.html": {
+      "refId": "trier-geschichte",
+      "archiveUrl": "https://web.archive.org/web/20251208095708/https://www.bistum-trier.de/kultur-musik/der-heilige-rock/geschichte-der-tunika/index.html",
+      "timestamp": "20251208095708",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.cambridge.org/core/journals/radiocarbon/article/14c-dating-of-the-titulus-crucis/E0FFBA7E6A68A5B7196ECF3F318C2D8C": {
       "refId": "bella-azzi-2002",
       "archiveUrl": "https://web.archive.org/web/20260414113554/https://www.cambridge.org/core/journals/radiocarbon/article/14c-dating-of-the-titulus-crucis/E0FFBA7E6A68A5B7196ECF3F318C2D8C",
@@ -176,10 +272,34 @@
       "timestamp": "20260825150913",
       "checkedAt": "2026-09-25"
     },
+    "https://www.europe1.fr/societe/laumonier-des-sapeurs-pompiers-sauve-la-couronne-depines-du-christ-de-notre-dame-elle-nappartient-pas-seulement-aux-chretiens-mais-a-lhumanite-3893535": {
+      "refId": "europe1-fournier-2019",
+      "archiveUrl": "https://web.archive.org/web/20250610095314/https://www.europe1.fr/societe/laumonier-des-sapeurs-pompiers-sauve-la-couronne-depines-du-christ-de-notre-dame-elle-nappartient-pas-seulement-aux-chretiens-mais-a-lhumanite-3893535",
+      "timestamp": "20250610095314",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.gutenberg.org/files/2811/2811-h/2811-h.htm": {
+      "refId": "pliny-letters-melmoth",
+      "archiveUrl": "https://web.archive.org/web/20260829022812/https://www.gutenberg.org/files/2811/2811-h/2811-h.htm",
+      "timestamp": "20260829022812",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.gutenberg.org/files/2848/2848-h/2848-h.htm": {
+      "refId": "josephus-ant-whiston",
+      "archiveUrl": "https://web.archive.org/web/20260921050703/https://www.gutenberg.org/files/2848/2848-h/2848-h.htm",
+      "timestamp": "20260921050703",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.herodote.net/26_avril_1248-evenement-12480426.php": {
       "refId": "herodote-1248",
       "archiveUrl": "https://web.archive.org/web/20260914064822/https://www.herodote.net/26_avril_1248-evenement-12480426.php",
       "timestamp": "20260914064822",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.holyblood.com/museum-van-het-heilig-bloed-in-brugge": {
+      "refId": "holyblood-museum",
+      "archiveUrl": "https://web.archive.org/web/20260416231908/https://www.holyblood.com/museum-van-het-heilig-bloed-in-brugge",
+      "timestamp": "20260416231908",
       "checkedAt": "2026-09-25"
     },
     "https://www.holyblood.com/relikwie-van-het-heilig-bloed-van-jesus-christus-en-de-heilig-bloedprocessie": {
@@ -188,10 +308,22 @@
       "timestamp": "20260615112458",
       "checkedAt": "2026-09-25"
     },
+    "https://www.holyblood.com/welkom": {
+      "refId": "holyblood-welkom",
+      "archiveUrl": "https://web.archive.org/web/20260721015844/https://www.holyblood.com/welkom",
+      "timestamp": "20260721015844",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.imj.org.il/en/exhibitions/cradle-christianity": {
       "refId": "imj-cradle-christianity",
       "archiveUrl": "https://web.archive.org/web/20260610212715/https://www.imj.org.il/en/exhibitions/cradle-christianity",
       "timestamp": "20260610212715",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.info-bible.org/histoire/reforme/traite-des-reliques-jean-calvin.htm": {
+      "refId": "calvin-traite-1543",
+      "archiveUrl": "https://web.archive.org/web/20260917224451/https://www.info-bible.org/histoire/reforme/traite-des-reliques-jean-calvin.htm",
+      "timestamp": "20260917224451",
       "checkedAt": "2026-09-25"
     },
     "https://www.judaism-and-rome.org/ambrose-milan-oration-death-theodosius-48": {
@@ -200,16 +332,34 @@
       "timestamp": "20250518191422",
       "checkedAt": "2026-09-25"
     },
+    "https://www.kaiserliche-schatzkammer.at/besuchen/besucherinformation/oeffnungszeiten-eintrittspreise/": {
+      "refId": "schatzkammer-hours",
+      "archiveUrl": "https://web.archive.org/web/20260906124443/https://www.kaiserliche-schatzkammer.at/besuchen/besucherinformation/oeffnungszeiten-eintrittspreise/",
+      "timestamp": "20260906124443",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.khm.at/kunstwerke/die-heilige-lanze-100443": {
       "refId": "khm-heilige-lanze",
       "archiveUrl": "https://web.archive.org/web/20260307115443/https://www.khm.at/kunstwerke/die-heilige-lanze-100443",
       "timestamp": "20260307115443",
       "checkedAt": "2026-09-25"
     },
+    "https://www.leidenmedievalistsblog.nl/articles/fake-news-in-fifteenth-century-rome-the-miraculous-discovery-of-the-titulus": {
+      "refId": "leiden-titulus",
+      "archiveUrl": "https://web.archive.org/web/20241206064112/https://www.leidenmedievalistsblog.nl/articles/fake-news-in-fifteenth-century-rome-the-miraculous-discovery-of-the-titulus",
+      "timestamp": "20241206064112",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.linteum.com/el-santo-sudario-investigaciones-estudios.php": {
       "refId": "ces-sudario-investigaciones",
       "archiveUrl": "https://web.archive.org/web/20240602211347/https://www.linteum.com/el-santo-sudario-investigaciones-estudios.php",
       "timestamp": "20240602211347",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.museidigenova.it/en/node/634": {
+      "refId": "musei-genova-tesoro",
+      "archiveUrl": "https://web.archive.org/web/20260520080239/https://museidigenova.it/en/node/634",
+      "timestamp": "20260520080239",
       "checkedAt": "2026-09-25"
     },
     "https://www.museivaticani.va/content/museivaticani/it/eventi-e-novita/iniziative/Eventi/2019/scala-santa-apertura-straordinaria.html": {
@@ -221,6 +371,12 @@
     "https://www.museoduomomonza.it/en/iron-crown/": {
       "refId": "monza-iron-crown",
       "archiveUrl": "https://web.archive.org/web/20260728034457/https://www.museoduomomonza.it/en/iron-crown/",
+      "timestamp": "20260728034457",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.museoduomomonza.it/en/iron-crown/the-iron-crown-as-a-work-of-art/": {
+      "refId": "monza-iron-crown-art",
+      "archiveUrl": "https://web.archive.org/web/20260728034457/https://www.museoduomomonza.it/en/iron-crown/the-iron-crown-as-a-work-of-art/",
       "timestamp": "20260728034457",
       "checkedAt": "2026-09-25"
     },
@@ -254,6 +410,12 @@
       "timestamp": "20260628212008",
       "checkedAt": "2026-09-25"
     },
+    "https://www.newadvent.org/cathen/04529a.htm": {
+      "refId": "ce-true-cross",
+      "archiveUrl": "https://web.archive.org/web/20260804182304/https://www.newadvent.org/cathen/04529a.htm",
+      "timestamp": "20260804182304",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.newadvent.org/cathen/04540b.htm": {
       "refId": "ce-crown-of-thorns",
       "archiveUrl": "https://web.archive.org/web/20260727130734/https://www.newadvent.org/cathen/04540b.htm",
@@ -272,10 +434,28 @@
       "timestamp": "20260909153437",
       "checkedAt": "2026-09-25"
     },
+    "https://www.newadvent.org/cathen/07202b.htm": {
+      "refId": "ce-helena",
+      "archiveUrl": "https://web.archive.org/web/20260719225115/https://www.newadvent.org/cathen/07202b.htm",
+      "timestamp": "20260719225115",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.newadvent.org/cathen/07289c.htm": {
       "refId": "ce-herod",
       "archiveUrl": "https://web.archive.org/web/20260915135105/https://www.newadvent.org/cathen/07289c.htm",
       "timestamp": "20260915135105",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/07425a.htm": {
+      "refId": "ce-holy-sepulchre",
+      "archiveUrl": "https://web.archive.org/web/20260823203754/https://www.newadvent.org/cathen/07425a.htm",
+      "timestamp": "20260823203754",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/08355a.htm": {
+      "refId": "ce-jerusalem",
+      "archiveUrl": "https://web.archive.org/web/20260824113341/https://www.newadvent.org/cathen/08355a.htm",
+      "timestamp": "20260824113341",
       "checkedAt": "2026-09-25"
     },
     "https://www.newadvent.org/cathen/08377a.htm": {
@@ -344,10 +524,28 @@
       "timestamp": "20260107141159",
       "checkedAt": "2026-09-25"
     },
+    "https://www.newadvent.org/fathers/310104.htm": {
+      "refId": "cyril-catechesis-4",
+      "archiveUrl": "https://web.archive.org/web/20260724195116/https://www.newadvent.org/fathers/310104.htm",
+      "timestamp": "20260724195116",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/fathers/310110.htm": {
+      "refId": "cyril-catechesis-10",
+      "archiveUrl": "https://web.archive.org/web/20260713230824/https://www.newadvent.org/fathers/310110.htm",
+      "timestamp": "20260713230824",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.priory-of-sion.com/biblios/links/memorandum.html": {
       "refId": "darcis-memo",
       "archiveUrl": "https://web.archive.org/web/20251218023940/https://priory-of-sion.com/biblios/links/memorandum.html",
       "timestamp": "20251218023940",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.santacroceroma.it/": {
+      "refId": "santacroce-home",
+      "archiveUrl": "https://web.archive.org/web/20260731141820/http://www.santacroceroma.it/",
+      "timestamp": "20260731141820",
       "checkedAt": "2026-09-25"
     },
     "https://www.santacroceroma.it/it/features-2/reliquie.html": {
@@ -362,6 +560,12 @@
       "timestamp": "20260517110939",
       "checkedAt": "2026-09-25"
     },
+    "https://www.scala-santa.com/informazioni/": {
+      "refId": "scala-santa-info",
+      "archiveUrl": "https://web.archive.org/web/20260608045717/https://www.scala-santa.com/informazioni/",
+      "timestamp": "20260608045717",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.scala-santa.com/la-scala-santa/": {
       "refId": "scala-santa",
       "archiveUrl": "https://web.archive.org/web/20251203201244/https://www.scala-santa.com/la-scala-santa/",
@@ -374,6 +578,18 @@
       "timestamp": "20260816040416",
       "checkedAt": "2026-09-25"
     },
+    "https://www.shroud.com/nature.htm": {
+      "refId": "nature-1989-text",
+      "archiveUrl": "https://web.archive.org/web/20260904141537/https://www.shroud.com/nature.htm",
+      "timestamp": "20260904141537",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.trierer-dom.de/bauwerk/der-heilige-rock/wallfahrten/index.html": {
+      "refId": "trier-dom-wallfahrten",
+      "archiveUrl": "https://web.archive.org/web/20260616083938/https://www.trierer-dom.de/bauwerk/der-heilige-rock/wallfahrten/index.html",
+      "timestamp": "20260616083938",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf": {
       "refId": "humphreys-waddington-1992",
       "archiveUrl": "https://web.archive.org/web/20260214085826/https://www.tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf",
@@ -384,6 +600,12 @@
       "refId": "vatican-nab-mark-14",
       "archiveUrl": "https://web.archive.org/web/20251203085919/https://www.vatican.va/archive/ENG0839/__PWG.HTM",
       "timestamp": "20251203085919",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/archive/ENG0839/__PWH.HTM": {
+      "refId": "vatican-nab-mark-15",
+      "archiveUrl": "https://web.archive.org/web/20250202040552/https://www.vatican.va/archive/ENG0839/__PWH.HTM",
+      "timestamp": "20250202040552",
       "checkedAt": "2026-09-25"
     },
     "https://www.vatican.va/archive/ENG0839/__PWI.HTM": {
@@ -416,6 +638,18 @@
       "timestamp": "20260116071721",
       "checkedAt": "2026-09-25"
     },
+    "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20171208_istruzione-reliquie_en.html": {
+      "refId": "relics-instruction-2017",
+      "archiveUrl": "https://web.archive.org/web/20260912022055/https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20171208_istruzione-reliquie_en.html",
+      "timestamp": "20260912022055",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vaticannews.va/it/chiesa/news/2023-03/il-mistero-della-colonna-della-flagellazione-di-santa-prassede.html": {
+      "refId": "vaticannews-prassede-2023",
+      "archiveUrl": "https://web.archive.org/web/20230720203459/https://www.vaticannews.va/it/chiesa/news/2023-03/il-mistero-della-colonna-della-flagellazione-di-santa-prassede.html",
+      "timestamp": "20230720203459",
+      "checkedAt": "2026-09-25"
+    },
     "https://www.vaticannews.va/it/papa/news/2019-11/reliquia-culla-gesu-bambino-papa-francesco-custodia-terrasanta.html": {
       "refId": "vaticannews-culla-2019",
       "archiveUrl": "https://web.archive.org/web/20250724142421/https://www.vaticannews.va/it/papa/news/2019-11/reliquia-culla-gesu-bambino-papa-francesco-custodia-terrasanta.html",
@@ -432,6 +666,12 @@
       "refId": "manoppello-veronica",
       "archiveUrl": "https://web.archive.org/web/20260517111650/https://www.voltosanto.it/e-a-roma-la-veronica/",
       "timestamp": "20260517111650",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.voltosanto.it/orario-messe-e-confessioni/": {
+      "refId": "voltosanto-orari",
+      "archiveUrl": "https://web.archive.org/web/20260517121925/https://www.voltosanto.it/orario-messe-e-confessioni/",
+      "timestamp": "20260517121925",
       "checkedAt": "2026-09-25"
     }
   }

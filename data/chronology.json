@@ -1567,6 +1567,591 @@
       }
     ]
   },
+  "catalogue": {
+    "heading": "The relics and where they are kept",
+    "navLabel": "Relics",
+    "intro": "Each object venerated as a relic of Christ, at the building where it is kept today: what it is, when it can be seen, when it first appears in the record, what laboratories have found, and what Church authorities have done about it. A card states each authority's act about the object; expositions, feasts and visits are acts of cult, not rulings on authenticity. The map marks each building; objects kept close together share a marker, and every card links to its building's exact location.",
+    "items": [
+      {
+        "id": "shroud-turin",
+        "name": "Shroud of Turin",
+        "site": "Turin Cathedral, Turin, Italy",
+        "where": "The last chapel of the left nave, under the Royal Tribune — Turin Cathedral (San Giovanni Battista), Turin, Italy",
+        "object": "A linen cloth in herringbone weave, about 4.41 × 1.13 m, bearing the faint front and back image of a man, per the custodian. It lies in a conservation case sealed inside a large metal chest.",
+        "visibility": "Not visible: \"La Sindone non si può vedere\", the custodian writes; it is taken out only for public expositions, and \"no one knows when the next exposition will be\". The chapel with the chest can be visited during cathedral hours.",
+        "attested": "Lirey, France, in the 1350s — the collegiate church founded on 20 June 1353 per the Catholic Encyclopedia, \"about the year 1360\" per another of its articles.",
+        "dating": "Radiocarbon: \"AD 1260-1390, with at least 95% confidence\" (Arizona, Oxford and Zurich, Nature, 1989); the sampling and statistics are contested in later publications.",
+        "church": "None declaring it authentic located. The custodian: the tradition \"cannot yet be said to be definitively proven\". John Paul II (1998): the Church \"has no specific competence to pronounce\". Owned by the Holy See since 1983.",
+        "sources": [
+          "sindone-dove",
+          "sindone-cose",
+          "ce-troyes",
+          "ce-shroud",
+          "nature-1989",
+          "casabianca-2019",
+          "jp2-1998"
+        ],
+        "image": {
+          "file": "shroud-turin.jpg",
+          "width": 800,
+          "height": 532,
+          "alt": "The linen cloth venerated as the Shroud of Turin",
+          "caption": "The linen cloth venerated as the Shroud of Turin, on display in Turin Cathedral during the 2010 exposition.",
+          "credit": "Fabio Poggi",
+          "license": "CC BY 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torino_-_Sacra_Sindone_-_ostensione_2010_-_panoramio.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+        }
+      },
+      {
+        "id": "sudarium-oviedo",
+        "name": "Sudarium of Oviedo",
+        "site": "Cámara Santa, Oviedo Cathedral, Oviedo, Spain",
+        "where": "The Cámara Santa of Oviedo Cathedral (San Salvador), Oviedo, Spain",
+        "object": "A linen cloth in plain taffeta weave, undyed, 85.5 × 52.6 cm, stained and without an image, mounted on a frame, per the cathedral.",
+        "visibility": "A facsimile is shown every day. The original, per the cathedral, \"can be contemplated three weeks a year\": Holy Week, Easter Week and the Jubilee of the Holy Cross, 14–21 September; the faithful are blessed with it on Good Friday and on 14 and 21 September.",
+        "attested": "The record of the opening of the Arca Santa on 13 March 1075, which lists \"de sudario Domini\", per the cathedral.",
+        "dating": "Radiocarbon results of the 6th–9th centuries are reported for 1990–1992 and 2007, but no primary publication of them was located.",
+        "church": "None declaring it authentic located; the three yearly blessings are acts of cult.",
+        "sources": [
+          "oviedo-camara",
+          "ces-sudario-investigaciones"
+        ],
+        "image": {
+          "file": "sudarium-oviedo.jpg",
+          "width": 800,
+          "height": 526,
+          "alt": "The cloth venerated as the Sudarium of Oviedo",
+          "caption": "The cloth venerated as the Sudarium of Oviedo, kept in the Cámara Santa of Oviedo Cathedral.",
+          "credit": "Reinhard Dietrich",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santo_Sudario_Oviedo.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "veronica-rome",
+        "name": "Veil of Veronica",
+        "site": "St Peter's Basilica, Vatican City",
+        "where": "A chapel inside the Veronica pier of the dome, above the Veronica loggia — St Peter's Basilica, Vatican City",
+        "object": "A veil venerated as bearing the Holy Face; its material, size and case are not described in the sources reached.",
+        "visibility": "Shown once a year from the Veronica loggia, on the Fifth Sunday of Lent (22 March 2026), per the Fabbrica di San Pietro.",
+        "attested": "Sources disagree: Vatican News (2024) dates the first testimonies at St Peter's to the 8th century; other accounts date firm records from 1199.",
+        "dating": "None located.",
+        "church": "Exposed as \"the Major Relic of the Holy Face\" — an act of cult. The Capuchins of Manoppello hold that the original is the image in their shrine, which St Peter's does not concede.",
+        "sources": [
+          "bsp-veronica-2026",
+          "pv-veronica-2025",
+          "vaticannews-reliquie-2024",
+          "manoppello-veronica"
+        ],
+        "image": {
+          "file": "veronica-rome.jpg",
+          "width": 800,
+          "height": 1067,
+          "alt": "The Veronica pier of St Peter's Basilica",
+          "caption": "The Veronica pier of St Peter's Basilica, with Francesco Mochi's statue of Saint Veronica (1632) and, above it, the loggia where the relic venerated as Veronica's veil is kept.",
+          "credit": "Sailko",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Francesco_mochi,_santa_veronica,_1632,_pilastro.JPG",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      },
+      {
+        "id": "volto-santo-manoppello",
+        "name": "Volto Santo of Manoppello",
+        "site": "Basilica of the Holy Face, Manoppello, Italy",
+        "where": "Basilica-Shrine of the Holy Face (Capuchin friary), Manoppello, Italy",
+        "object": "A thin veil bearing a face, kept in a frame glazed on both sides; its material is disputed (linen or byssus) and no samples have been allowed for testing.",
+        "visibility": "The basilica is open every day from 6:00 to 19:00, per the shrine.",
+        "attested": "The shrine's own account, written in 1640, has a pilgrim bring the veil in about 1506; it has been in the Capuchin church since the 17th century.",
+        "dating": "None: no laboratory testing has been allowed.",
+        "church": "None declaring it authentic located. Benedict XVI's visit of 1 September 2006, which he called a private pilgrimage, is an act of cult.",
+        "sources": [
+          "voltosanto-storia",
+          "voltosanto-orari",
+          "manoppello-veronica",
+          "b16-manoppello-2006"
+        ],
+        "image": {
+          "file": "volto-santo-manoppello.jpg",
+          "width": 800,
+          "height": 1067,
+          "alt": "The veil venerated as the Holy Face of Manoppello",
+          "caption": "The veil venerated as the Holy Face of Manoppello, in its monstrance-frame in the Basilica of the Volto Santo, photographed in 2019.",
+          "credit": "ElfQrin",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volto_santo_di_manoppello_2019-11-02.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "tunic-trier",
+        "name": "Holy Robe of Trier",
+        "site": "Trier Cathedral, Trier, Germany",
+        "where": "The Chapel of the Holy Robe, Trier Cathedral (St. Peter), Trier, Germany",
+        "object": "An old woollen core, now partly crumbling felt, held in a 16th-century carrier garment of silk layers, per the diocese; it lies flat in an 1891 wooden shrine under a climate-controlled glass case.",
+        "visibility": "Not visible: it is kept locked, the cathedral writes, and is shown only at rare pilgrimages (the last from 13 April to 13 May 2012). The chapel opens during the yearly Heilig-Rock-Tage, when the robe itself still cannot be seen.",
+        "attested": "The diocese's pages disagree: a first written mention in the 11th century, or the enclosure in the high altar on 1 May 1196.",
+        "dating": "None: the core is \"not precisely datable\", per the diocese; no radiocarbon test was located.",
+        "church": "The cathedral: \"The question of the Holy Robe's authenticity cannot be answered with certainty.\"",
+        "sources": [
+          "trier-dom-wallfahrten",
+          "trier-dom-heiliger-rock",
+          "trier-faq",
+          "trier-geschichte",
+          "heilig-rock-tage"
+        ],
+        "image": {
+          "file": "tunic-trier.jpg",
+          "width": 800,
+          "height": 600,
+          "alt": "The garment venerated in Trier Cathedral as the Holy Robe (Heiliger Rock)",
+          "caption": "The garment venerated in Trier Cathedral as the Holy Robe (Heiliger Rock), shown during the 2012 pilgrimage.",
+          "credit": "Ghazwan Mattoka",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Holy_Tunic_of_Jesus_Christ_in_Trier,_Germany.JPG",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      },
+      {
+        "id": "tunic-argenteuil",
+        "name": "Holy Tunic of Argenteuil",
+        "site": "Basilica of Saint-Denys, Argenteuil, France",
+        "where": "The chapel and altar-reliquary of the Holy Tunic, Basilica of Saint-Denys, Argenteuil, France",
+        "object": "Pieces of a tunic of sheep's wool dyed with a plant of the madder family, sewn onto a modern wool support and kept in a small reliquary within the altar, per the parish.",
+        "visibility": "The reliquary can be venerated every day, per the parish; the tunic itself is shown only at solemn expositions, the last from 18 April to 11 May 2025.",
+        "attested": "A charter of 1156 recording an exposition before Louis VII, per the parish; its arrival under Charlemagne is the shrine's tradition.",
+        "dating": "Radiocarbon: \"between the years 530 and 650\" (CEA Saclay, 2004), per the parish, which reports the researchers' warning about contamination; a 2005 test giving 670–880 is contested.",
+        "church": "None declaring it authentic located; the expositions under the Bishop of Pontoise are acts of cult. The parish itself argues for authenticity.",
+        "sources": [
+          "saintetunique-la-tunique",
+          "saintetunique-faq",
+          "saintetunique-home",
+          "wp-argenteuil"
+        ],
+        "image": {
+          "file": "tunic-argenteuil.jpg",
+          "width": 800,
+          "height": 1067,
+          "alt": "The garment venerated as the Holy Tunic of Argenteuil",
+          "caption": "The garment venerated as the Holy Tunic of Argenteuil, displayed in its reliquary during the 2016 exposition at the Basilica of Saint-Denys, Argenteuil.",
+          "credit": "Simon de l'Ouest",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argenteuil_95_Sainte_Tunique_2016.JPG",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "holy-blood-bruges",
+        "name": "Relic of the Holy Blood",
+        "site": "Basilica of the Holy Blood, Bruges, Belgium",
+        "where": "The upper basilica, Basilica of the Holy Blood, Burg, Bruges, Belgium",
+        "object": "A rock-crystal tube, which the basilica describes as Constantinopolitan work of about 1200. For the procession it is carried in Jan Crabbe's shrine of 1617, some 30 kg of gold and silver.",
+        "visibility": "Offered for veneration every day from 14:00 to 16:00, and on Fridays from 10:15 to 11:00, per the basilica; carried through the city in the Ascension Day procession.",
+        "attested": "The 13th century, per the basilica, which records that the story of an arrival in 1150 is strongly doubted by most historians; the procession is first mentioned in 1291.",
+        "dating": "None of the contents located.",
+        "church": "None declaring it authentic located; Clement V's bull of 1310 encouraged pilgrimage, and UNESCO's 2009 listing concerns the procession, not the relic.",
+        "sources": [
+          "holyblood-welkom",
+          "holyblood-relic",
+          "holyblood-museum",
+          "unesco-bruges"
+        ],
+        "image": {
+          "file": "holy-blood-bruges.jpg",
+          "width": 800,
+          "height": 533,
+          "alt": "The phial venerated as the Relic of the Holy Blood",
+          "caption": "The phial venerated as the Relic of the Holy Blood, in its reliquary cylinder at the Basilica of the Holy Blood, Bruges.",
+          "credit": "Ayack",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Relique_du_Saint-Sang_-_Bruges.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      },
+      {
+        "id": "true-cross-santa-croce",
+        "name": "Relics of the True Cross",
+        "site": "Santa Croce in Gerusalemme, Rome, Italy",
+        "where": "The Chapel of the Relics, Basilica of Santa Croce in Gerusalemme, Rome, Italy",
+        "object": "Fragments of wood in 19th-century reliquaries, kept in a crystal case, per the basilica. Other fragments are venerated at St Peter's, Notre-Dame de Paris, the Holy Sepulchre and Etchmiadzin, among many places.",
+        "visibility": "Normally on display without booking; the chapel has been closed since 16 April 2026 for urgent works, by order of the Vicariate of Rome and the Ministry of Culture, with no reopening date announced.",
+        "attested": "Wood of the Cross is attested in Jerusalem c. 348–350 by Cyril of Jerusalem; the claim that Constantine gave this portion to the basilica rests on the Liber Pontificalis, which the Catholic Encyclopedia treats with reserve.",
+        "dating": "None located.",
+        "church": "None declaring any fragment authentic located. The basilica itself writes that Helena \"certainly\" brought the relics — its own claim.",
+        "sources": [
+          "santacroce-reliquie",
+          "santacroce-home",
+          "cyril-catechesis-4",
+          "ce-true-cross"
+        ],
+        "image": {
+          "file": "true-cross-santa-croce.jpg",
+          "width": 800,
+          "height": 1200,
+          "alt": "The relic display case in the Chapel of the Relics, Santa Croce in Gerusalemme",
+          "caption": "The display case in the Chapel of the Relics at Santa Croce in Gerusalemme, Rome, with the reliquaries said to hold fragments of the True Cross and other Passion relics.",
+          "credit": "Fallaner",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rome_Santa_Croce_in_Gerusalemme_2020_P04_Cappella_delle_Reliquie_reliquary.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "titulus-crucis",
+        "name": "Titulus Crucis",
+        "site": "Santa Croce in Gerusalemme, Rome, Italy",
+        "where": "The Chapel of the Relics, in the same case as the Cross relics — Basilica of Santa Croce in Gerusalemme, Rome, Italy",
+        "object": "A single piece of walnut wood, about 26 × 14 × 4 cm and 687 g, inscribed in Hebrew, Greek and Latin letters written right to left.",
+        "visibility": "As for the Cross relics: normally on display; the chapel has been closed since 16 April 2026.",
+        "attested": "Found on 1 February 1492 during works in the basilica, per a contemporary diarist; the other contemporary accounts differ on where and how.",
+        "dating": "Radiocarbon: AD 980–1146 at two sigma (Roma Tre University, Radiocarbon, 2002); the authors note that this permits the hypothesis that it is a copy.",
+        "church": "None declaring it authentic located; a 1496 bull of Alexander VI cited in some accounts was not located.",
+        "sources": [
+          "santacroce-reliquie",
+          "santacroce-home",
+          "leiden-titulus",
+          "bella-azzi-2002"
+        ],
+        "image": {
+          "file": "titulus-crucis.jpg",
+          "width": 800,
+          "height": 533,
+          "alt": "The inscribed wooden panel venerated as the Titulus Crucis",
+          "caption": "The inscribed wooden panel venerated as the Titulus Crucis, in its reliquary at Santa Croce in Gerusalemme, Rome.",
+          "credit": "Fallaner",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rome_Santa_Croce_in_Gerusalemme_2020_P05_Titulus_Crucis.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "iron-crown-monza",
+        "name": "Iron Crown of Monza",
+        "site": "Monza Cathedral, Monza, Italy",
+        "where": "The altar of the Crown in the Chapel of Theodolinda, Monza Cathedral, Monza, Italy",
+        "object": "A small gold diadem, 48 cm round, of six plates set with gems and enamels, around an inner ring venerated as made from a Nail of the Cross. The museum now writes that this ring \"is made of silver\", adding that it has not been ruled out that it could still be the Nail.",
+        "visibility": "Seen only on guided 30-minute visits, booked in advance, from Tuesday to Sunday, per the cathedral museum.",
+        "attested": "The tradition of a Nail in Helena's diadem goes back to Ambrose (395); the crown's own history at Monza is documented from the 14th century, when Innocent VI confirmed the cathedral's right to host coronations (1354), per the museum.",
+        "dating": "Recent studies suggest interventions between the 4th–5th and the 9th centuries, per the museum; the studies are not named.",
+        "church": "Carlo Borromeo \"established the cult of the Sacred Nail\" in 1576, per the museum — an act of cult; no finding of authenticity located.",
+        "sources": [
+          "monza-iron-crown",
+          "monza-iron-crown-art",
+          "monza-opening-hours",
+          "monza-sacred-nail",
+          "ambrose-obitu-theodosii"
+        ],
+        "image": {
+          "file": "iron-crown-monza.jpg",
+          "width": 800,
+          "height": 487,
+          "alt": "The Iron Crown of Lombardy",
+          "caption": "The Iron Crown of Lombardy, a circlet whose inner band is said to be made from a nail of the Crucifixion, in the Theodelinda Chapel of Monza Cathedral.",
+          "credit": "James Steakley",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Crown.JPG",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      },
+      {
+        "id": "crown-of-thorns",
+        "name": "Crown of Thorns",
+        "site": "Notre-Dame de Paris, Paris, France",
+        "where": "The axial chapel behind the choir, in Sylvain Dubuisson's reliquary — Notre-Dame de Paris, Paris, France",
+        "object": "A ring of bundled rushes, 21 cm across, held with gold thread; its thorns were dispersed over the centuries. It is kept in a 19th-century crystal-and-gold tube, which since December 2024 rests in a new reliquary.",
+        "visibility": "Shown every Friday from 15:00 to 18:30, venerated in the nave on the first Friday of the month and all day on Good Friday, per the Diocese of Paris.",
+        "attested": "A crown was shown on Mount Sion in the 6th century, per two pilgrims' accounts; this object came to Paris with Louis IX on 19 August 1239.",
+        "dating": "None located.",
+        "church": "None declaring it authentic located; its expositions and venerations are acts of cult.",
+        "sources": [
+          "dioceseparis-couronne",
+          "jda-chasse-2024",
+          "ce-crown-of-thorns"
+        ],
+        "image": {
+          "file": "crown-of-thorns.jpg",
+          "width": 800,
+          "height": 533,
+          "alt": "The rush circlet venerated as the Crown of Thorns",
+          "caption": "The rush circlet venerated as the Crown of Thorns, in its crystal ring reliquary on a cushion during the veneration service at Notre-Dame de Paris.",
+          "credit": "AlSepPhoenix",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sainte-couronne_epine_Notre-Dame-de-Paris_Veneration.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "lance-vienna",
+        "name": "Holy Lance of Vienna",
+        "site": "Imperial Treasury, Hofburg, Vienna, Austria",
+        "where": "The Secular Treasury, Imperial Treasury (Kunsthistorisches Museum), Hofburg, Vienna, Austria",
+        "object": "A Carolingian winged lance of iron and steel, 50.7 cm long, with an iron pin set into the blade and silver and gold sleeves added in the 11th and 14th centuries, the latter inscribed \"LANCEA ET CLAVVS DOMINI\", per the museum.",
+        "visibility": "On permanent display; the Treasury is open every day except Tuesday.",
+        "attested": "The museum dates the silver sleeve to the second half of the 11th century; an earlier first attestation was not established in the sources reached.",
+        "dating": "The blade is 8th-century, per the museum and a University of Vienna study (2003–2004); a 2003 television investigation said the 7th century at the earliest.",
+        "church": "None declaring it authentic. The museum calls its identification with a Nail, and then with Longinus's lance, \"pious wishful thinking\"; Charles IV obtained a papal feast of the Lance and Nail — an act of cult.",
+        "sources": [
+          "khm-heilige-lanze",
+          "vias-lanze",
+          "schatzkammer-hours",
+          "time-feather-2003"
+        ],
+        "image": {
+          "file": "lance-vienna.jpg",
+          "width": 800,
+          "height": 1067,
+          "alt": "The Holy Lance in the Imperial Treasury, Vienna",
+          "caption": "The Holy Lance (Carolingian, 8th century) in the Imperial Treasury (Weltliche Schatzkammer), Vienna.",
+          "credit": "Gryffindor",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weltliche_Schatzkammer_Wien_(180).JPG",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      },
+      {
+        "id": "lance-vatican",
+        "name": "Holy Lance of St Peter's",
+        "site": "St Peter's Basilica, Vatican City",
+        "where": "The Chapel of the Major Relics in the Veronica pier — St Peter's Basilica, Vatican City",
+        "object": "A lance head without its point, per the Catholic Encyclopedia; its material and case are not described in the sources reached.",
+        "visibility": "Offered for veneration in the second week of Lent, per Vatican News; otherwise not on view.",
+        "attested": "Sent by the Ottoman sultan Bayezid II to Pope Innocent VIII in 1492.",
+        "dating": "None located.",
+        "church": "None declaring it authentic. The Catholic Encyclopedia records that \"great doubts as to its authenticity were felt at Rome\" in 1492.",
+        "sources": [
+          "vaticannews-reliquie-2024",
+          "ce-holy-lance"
+        ],
+        "image": {
+          "file": "lance-vatican.jpg",
+          "width": 800,
+          "height": 1200,
+          "alt": "Gian Lorenzo Bernini's statue of Saint Longinus in the Longinus pier of St Peter's Basilica",
+          "caption": "Gian Lorenzo Bernini's statue of Saint Longinus in the Longinus pier of St Peter's Basilica, whose loggia holds the lance relic kept in the Vatican.",
+          "credit": "Gary Todd",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Basilica,_Statue_of_St._Longinus,_the_Centurian_who_Pierced_Jesus%27_Side_with_a_Spear_(48466473841).jpg"
+        }
+      },
+      {
+        "id": "lance-etchmiadzin",
+        "name": "Holy Lance of Geghard",
+        "site": "Manoogian Treasury, Etchmiadzin, Armenia",
+        "where": "The Alex and Marie Manoogian Treasury-House, Mother See of Holy Etchmiadzin, Vagharshapat, Armenia",
+        "object": "A lance head in a silver reliquary, per the Mother See; a 1908 Catholic source judged it \"rather the head of a standard\".",
+        "visibility": "On display in the Treasury-House, where it moved from the cathedral in 2018; open Tuesday to Sunday.",
+        "attested": "Not established in the sources reached.",
+        "dating": "None located.",
+        "church": "The Armenian Apostolic Church venerates it as \"the spear that pierced Christ\"; no formal act declaring it authentic was located.",
+        "sources": [
+          "etchmiadzin-treasury",
+          "etchmiadzin-museums",
+          "shoghakat-2018",
+          "ce-holy-lance"
+        ],
+        "image": {
+          "file": "lance-etchmiadzin.jpg",
+          "width": 800,
+          "height": 1200,
+          "alt": "The lance-head venerated as the Holy Lance (Geghard)",
+          "caption": "The lance-head venerated as the Holy Lance (Geghard), in its reliquary at Etchmiadzin, Armenia, photographed in 2014.",
+          "credit": "Marcin Konsek",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014_Prowincja_Armawir,_Wagharszapat,_Katedra_w_Eczmiadzynie,_Wn%C4%99trze,_W%C5%82%C3%B3cznia_Przeznaczenia.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "scala-sancta",
+        "name": "Scala Sancta",
+        "site": "Scala Santa, Rome, Italy",
+        "where": "Pontifical Sanctuary of the Scala Santa and Sancta Sanctorum, Piazza di San Giovanni in Laterano, Rome, Italy",
+        "object": "Twenty-eight marble steps covered in wood since the 1720s, with small windows showing the marble on three of them; the marble was uncovered for sixty days in 2019.",
+        "visibility": "Open every day and climbed only on the knees, without booking, per the Passionist custodians.",
+        "attested": "Not as a dated document: the sanctuary's tradition has Helena bring the steps to Rome in 327–328; Sixtus V moved them to their present site in 1589.",
+        "dating": "None located.",
+        "church": "None declaring them authentic; Pius IX's acts of 1853–1854 concern custody, and the indulgences are acts of cult.",
+        "sources": [
+          "scala-santa",
+          "scala-santa-info",
+          "musei-vaticani-scala-2019",
+          "ce-scala-sancta"
+        ],
+        "image": {
+          "file": "scala-sancta.jpg",
+          "width": 800,
+          "height": 1200,
+          "alt": "The Scala Sancta in Rome",
+          "caption": "The Scala Sancta in Rome, the staircase venerated as the one Jesus climbed in Pilate's praetorium, with its protective wooden covering.",
+          "credit": "Fallaner",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rome_Scala_Santa_2020_P01.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "column-santa-prassede",
+        "name": "Column of the Flagellation (Rome)",
+        "site": "Santa Prassede, Rome, Italy",
+        "where": "A small chapel off the right aisle, Basilica of Santa Prassede, Rome, Italy",
+        "object": "A short column of black-and-white gabbro-diorite from Egypt's Eastern Desert, 63 cm high, in Duilio Cambellotti's gilded reliquary of 1898, per Vatican News.",
+        "visibility": "On display in its chapel, per Vatican News (2023).",
+        "attested": "By tradition brought from Jerusalem by Cardinal Giovanni Colonna in 1223.",
+        "dating": "None located.",
+        "church": "None declaring it authentic; Vatican News writes that its cult \"is not tied to any material historical evidence\". A rival column is venerated in Jerusalem.",
+        "sources": [
+          "vaticannews-prassede-2023"
+        ],
+        "image": {
+          "file": "column-santa-prassede.jpg",
+          "width": 800,
+          "height": 1565,
+          "alt": "The stone column venerated as the Column of the Flagellation",
+          "caption": "The stone column venerated as the Column of the Flagellation, in its glass case in the Chapel of San Zenone, Santa Prassede, Rome.",
+          "credit": "Rabax63",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gei%C3%9Fels%C3%A4ule.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "column-jerusalem",
+        "name": "Column of the Flagellation (Jerusalem)",
+        "site": "Church of the Holy Sepulchre, Jerusalem",
+        "where": "The Franciscan Chapel of the Apparition, to the right of the altar — Church of the Holy Sepulchre, Jerusalem",
+        "object": "A piece of a red porphyry column, per the Custody of the Holy Land — a different stone from the column in Rome.",
+        "visibility": "In the chapel, open with the church every day; venerated in a solemn rite each Holy Wednesday.",
+        "attested": "A column was venerated on Mount Sion in the 4th century, per Egeria; the Custody's own pages date its move to the Holy Sepulchre to 1553 or to the 14th century.",
+        "dating": "None located.",
+        "church": "None declaring it authentic located.",
+        "sources": [
+          "custodia-holy-sepulchre",
+          "custodia-column-2020",
+          "egeria-mcclure-1919"
+        ],
+        "image": {
+          "file": "column-jerusalem.jpg",
+          "width": 800,
+          "height": 1067,
+          "alt": "The column fragment venerated as part of the Column of the Flagellation",
+          "caption": "The column fragment venerated as part of the Column of the Flagellation, in its niche in the Franciscan Chapel of the Apparition, Church of the Holy Sepulchre, Jerusalem.",
+          "credit": "Fallaner",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Holy_Land_2018_(2)_P181_Jerusalem_Holy_Sepulchre_Column_of_the_Flagellation.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "holy-chalice-valencia",
+        "name": "Holy Chalice of Valencia",
+        "site": "Valencia Cathedral, Valencia, Spain",
+        "where": "The Chapel of the Holy Chalice (the old chapter house), Valencia Cathedral, Valencia, Spain",
+        "object": "An agate cup that the cathedral dates to the 2nd–1st century BC, on medieval gold handles and a gold foot set with pearls and gems; 17 cm high.",
+        "visibility": "Seen on the cathedral's cultural visit, and at the Thursday Mass of the Holy Chalice, per the cathedral.",
+        "attested": "In 1399 it was delivered by the monastery of San Juan de la Peña to King Martin I; it has been in Valencia Cathedral since 18 March 1437, per the cathedral.",
+        "dating": "No laboratory dating located; the cathedral's date is by type.",
+        "church": "None declaring it the cup of the Last Supper located; papal Masses (1982, 2006) and a perpetual jubilee granted in 2015 are acts of cult. The cathedral argues for the tradition.",
+        "sources": [
+          "valencia-caliz-about",
+          "valencia-caliz-chronology",
+          "valencia-caliz-chapel",
+          "valencia-hours",
+          "valencia-jubileo"
+        ],
+        "image": {
+          "file": "holy-chalice-valencia.jpg",
+          "width": 800,
+          "height": 1091,
+          "alt": "The agate cup venerated as the Holy Chalice (Santo Cáliz)",
+          "caption": "The agate cup venerated as the Holy Chalice (Santo Cáliz), in its showcase in the Chapel of the Holy Chalice, Valencia Cathedral.",
+          "credit": "Vitold Muratov",
+          "license": "CC BY-SA 3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chalice_of_Valencia.JPG",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+        }
+      },
+      {
+        "id": "sacro-catino-genoa",
+        "name": "Sacro Catino",
+        "site": "Genoa Cathedral, Genoa, Italy",
+        "where": "The Treasury Museum under Genoa Cathedral (San Lorenzo), Genoa, Italy",
+        "object": "A hexagonal dish of green glass, long believed to be emerald and once called the Holy Grail; broken in the 19th century and reassembled in 1951. It belongs to the City of Genoa.",
+        "visibility": "On permanent display in the Treasury Museum, Monday to Saturday.",
+        "attested": "Brought to Genoa by Guglielmo Embriaco in 1101, per the chronicles.",
+        "dating": "Shown in 1806 to be glass, not emerald; described by the city museums as Middle Eastern glassware.",
+        "church": "None: no claim or act located; the object is civic property.",
+        "sources": [
+          "artbonus-sacro-catino",
+          "musei-genova-tesoro"
+        ],
+        "image": {
+          "file": "sacro-catino-genoa.jpg",
+          "width": 800,
+          "height": 533,
+          "alt": "The green glass dish known as the Sacro Catino",
+          "caption": "The green glass dish known as the Sacro Catino, identified in medieval tradition with the dish of the Last Supper, in the Treasury Museum of Genoa Cathedral.",
+          "credit": "Sylvain Billet",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacro_Catino_Graal.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      },
+      {
+        "id": "holy-crib-rome",
+        "name": "Holy Crib",
+        "site": "Santa Maria Maggiore, Rome, Italy",
+        "where": "The Confessio before the Papal Altar, Basilica of Santa Maria Maggiore, Rome, Italy",
+        "object": "Five slats of sycamore-fig wood in a rock-crystal reliquary designed by Giuseppe Valadier in 1802, per the basilica.",
+        "visibility": "Not stated in the sources reached.",
+        "attested": "The basilica links its title \"ad Praesepem\" to the 7th century; devotion to the relic is attested from the 13th century, per the Terra Sancta Museum.",
+        "dating": "The basilica writes that the slats have been \"scientifically\" dated to the time of the birth, but cites no study, and none was located.",
+        "church": "None declaring it authentic located; the gift of a fragment to Bethlehem in 2019 is an act of cult.",
+        "sources": [
+          "smm-sacra-culla",
+          "terrasanta-museum-culla",
+          "vaticannews-culla-2019"
+        ],
+        "image": {
+          "file": "holy-crib-rome.jpg",
+          "width": 800,
+          "height": 972,
+          "alt": "The reliquary of the Sacra Culla",
+          "caption": "The reliquary of the Sacra Culla, which holds wooden boards venerated as the manger of Jesus, in the confessio of Santa Maria Maggiore, Rome.",
+          "credit": "Jastrow",
+          "license": "Public domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacra_culla_SM_Maggiore.jpg"
+        }
+      },
+      {
+        "id": "mandylion-genoa",
+        "name": "Mandylion of Genoa",
+        "site": "San Bartolomeo degli Armeni, Genoa, Italy",
+        "where": "Church of San Bartolomeo degli Armeni (Barnabite Fathers), Genoa, Italy",
+        "object": "A face painted in egg tempera on linen, glued to a cedar panel and set in a Byzantine frame of gold and silver filigree, per a local iconographers' group citing radiographic study.",
+        "visibility": "Exposed once a year for an octave; the timing is given differently in the sources reached.",
+        "attested": "Brought from Constantinople by Leonardo Montaldo in 1362 and given to the church in 1384 or 1388.",
+        "dating": "None located; a 2004 exhibition studied it as a Byzantine icon.",
+        "church": "None declaring it authentic located; the yearly octave is an act of cult.",
+        "sources": [
+          "iconesacre-mandylion",
+          "mandylion-2004"
+        ],
+        "image": {
+          "file": "mandylion-genoa.jpg",
+          "width": 800,
+          "height": 1067,
+          "alt": "The icon venerated as the Holy Face of Edessa (Mandylion of Genoa)",
+          "caption": "The icon venerated as the Holy Face of Edessa (Mandylion of Genoa), in its silver-gilt frame at the Church of San Bartolomeo degli Armeni, Genoa.",
+          "credit": "Postcrosser",
+          "license": "CC BY-SA 4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SanBartolomeoArmeni_mandylion.jpg",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  },
   "placesMap": {
     "note": "Every recorded event that names a place is placed here — the places of the life as the Gospels and scholars locate them, and the churches, museums and treasuries where the relics were first recorded, moved and kept. An event that names two places is drawn at both. The year control is an aid, not a claim: several dates here are ranges or disputed, and a slider cannot show a disagreement, so read the dashed markers and the chronology entries for what is settled."
   },
@@ -2442,6 +3027,198 @@
       "publisher": "Congregation for the Causes of Saints",
       "publisherNote": "The Holy See's current norms on relics — which concern relics of the Blessed and the Saints.",
       "type": "official"
+    },
+    {
+      "id": "voltosanto-storia",
+      "title": "Storia del Volto Santo",
+      "url": "https://www.voltosanto.it/storia/",
+      "publisher": "Santuario del Volto Santo, Manoppello",
+      "publisherNote": "The Capuchin custodians' history of the image, including the 1640 account of its arrival — the shrine's own tradition.",
+      "type": "official"
+    },
+    {
+      "id": "voltosanto-orari",
+      "title": "Orario di apertura",
+      "url": "https://www.voltosanto.it/orario-messe-e-confessioni/",
+      "publisher": "Santuario del Volto Santo, Manoppello",
+      "publisherNote": "The shrine's opening hours.",
+      "type": "official"
+    },
+    {
+      "id": "trier-dom-heiliger-rock",
+      "title": "Der Heilige Rock",
+      "url": "https://www.trierer-dom.de/bauwerk/der-heilige-rock/index.html",
+      "publisher": "Hohe Domkirche Trier",
+      "publisherNote": "The cathedral's page on the robe and its chapel.",
+      "type": "official"
+    },
+    {
+      "id": "heilig-rock-tage",
+      "title": "Heilig-Rock-Tage",
+      "url": "https://www.heilig-rock-tage.de/",
+      "publisher": "Bistum Trier",
+      "publisherNote": "The diocese's annual days, when the robe's chapel opens.",
+      "type": "official"
+    },
+    {
+      "id": "saintetunique-faq",
+      "title": "Foire aux questions",
+      "url": "https://saintetunique.com/foire-aux-questions/",
+      "publisher": "Paroisse d'Argenteuil — Diocèse de Pontoise",
+      "publisherNote": "The custodian parish's answers on the altar-reliquary and on daily veneration.",
+      "type": "official"
+    },
+    {
+      "id": "holyblood-welkom",
+      "title": "Welkom — Heilig-Bloedbasiliek",
+      "url": "https://www.holyblood.com/welkom",
+      "publisher": "Basilica of the Holy Blood, Bruges",
+      "publisherNote": "The custodian basilica's address and veneration hours.",
+      "type": "official"
+    },
+    {
+      "id": "holyblood-museum",
+      "title": "Museum van het Heilig Bloed",
+      "url": "https://www.holyblood.com/museum-van-het-heilig-bloed-in-brugge",
+      "publisher": "Basilica of the Holy Blood, Bruges",
+      "publisherNote": "The basilica's museum, including Jan Crabbe's 1617 procession shrine.",
+      "type": "official"
+    },
+    {
+      "id": "santacroce-home",
+      "title": "Basilica di Santa Croce in Gerusalemme",
+      "url": "https://www.santacroceroma.it/",
+      "publisher": "Basilica di Santa Croce in Gerusalemme",
+      "publisherNote": "The basilica's home page, carrying its notice that the relic chapel is closed.",
+      "type": "official"
+    },
+    {
+      "id": "monza-iron-crown-art",
+      "title": "The Iron Crown as a work of art",
+      "url": "https://www.museoduomomonza.it/en/iron-crown/the-iron-crown-as-a-work-of-art/",
+      "publisher": "Museo e Tesoro del Duomo di Monza",
+      "publisherNote": "The custodian museum's description of the crown, including its statement that the inner ring is made of silver.",
+      "type": "official"
+    },
+    {
+      "id": "monza-opening-hours",
+      "title": "Opening hours",
+      "url": "https://www.museoduomomonza.it/en/opening-hours/",
+      "publisher": "Museo e Tesoro del Duomo di Monza",
+      "publisherNote": "The museum's visiting hours and booking rules for the Crown.",
+      "type": "official"
+    },
+    {
+      "id": "monza-sacred-nail",
+      "title": "The cult of the Sacred Nail",
+      "url": "https://www.museoduomomonza.it/en/iron-crown/the-cult-of-the-sacred-nail/",
+      "publisher": "Museo e Tesoro del Duomo di Monza",
+      "publisherNote": "The museum's account of the cult and the September procession.",
+      "type": "official"
+    },
+    {
+      "id": "schatzkammer-hours",
+      "title": "Öffnungszeiten und Eintrittspreise",
+      "url": "https://www.kaiserliche-schatzkammer.at/besuchen/besucherinformation/oeffnungszeiten-eintrittspreise/",
+      "publisher": "Kaiserliche Schatzkammer Wien",
+      "publisherNote": "The Imperial Treasury's opening hours.",
+      "type": "official"
+    },
+    {
+      "id": "time-feather-2003",
+      "title": "Piercing an Ancient Tale (8 June 2003)",
+      "url": "https://time.com/archive/6894352/piercing-an-ancient-tale/",
+      "publisher": "Time",
+      "publisherNote": "A magazine report of a television documentary's test of the Vienna lance; not peer-reviewed.",
+      "type": "news"
+    },
+    {
+      "id": "etchmiadzin-museums",
+      "title": "Museums at the Mother See",
+      "url": "https://www.armenianchurch.org/en/Museums-at-the-Mother-See",
+      "publisher": "Mother See of Holy Etchmiadzin",
+      "publisherNote": "The custodian's museums page: hours and access.",
+      "type": "official"
+    },
+    {
+      "id": "shoghakat-2018",
+      "title": "Holy Lance shown to the press (Shoghakat TV, 6 July 2018)",
+      "url": "https://www.shoghakat.am/en/telecasts/15589",
+      "publisher": "Shoghakat TV",
+      "publisherNote": "The Armenian Church's television channel.",
+      "type": "news"
+    },
+    {
+      "id": "scala-santa-info",
+      "title": "Informazioni",
+      "url": "https://www.scala-santa.com/informazioni/",
+      "publisher": "Pontificio Santuario della Scala Santa",
+      "publisherNote": "The custodians' visiting rules and hours.",
+      "type": "official"
+    },
+    {
+      "id": "valencia-caliz-about",
+      "title": "About the Holy Chalice",
+      "url": "https://catedraldevalencia.es/en/the-holy-chalice/about-the-holy-chalice/",
+      "publisher": "Catedral de Valencia",
+      "publisherNote": "The custodian cathedral's description, including its own dating and its case for the tradition.",
+      "type": "official"
+    },
+    {
+      "id": "valencia-caliz-chronology",
+      "title": "Chronology of the Holy Chalice",
+      "url": "https://catedraldevalencia.es/en/the-holy-chalice/chronology-of-the-holy-chalice/",
+      "publisher": "Catedral de Valencia",
+      "publisherNote": "The cathedral's chronology of the chalice's documented custody.",
+      "type": "official"
+    },
+    {
+      "id": "valencia-caliz-chapel",
+      "title": "The Chapel of the Holy Chalice",
+      "url": "https://catedraldevalencia.es/en/the-holy-chalice/the-chapel-of-the-holy-chalice/",
+      "publisher": "Catedral de Valencia",
+      "publisherNote": "The cathedral's page on the chapel.",
+      "type": "official"
+    },
+    {
+      "id": "valencia-hours",
+      "title": "Hours and admission",
+      "url": "https://catedraldevalencia.es/en/cultural-visit/hours-and-admission/",
+      "publisher": "Catedral de Valencia",
+      "publisherNote": "The cathedral's visiting hours.",
+      "type": "official"
+    },
+    {
+      "id": "musei-genova-tesoro",
+      "title": "Museo del Tesoro della Cattedrale di San Lorenzo",
+      "url": "https://www.museidigenova.it/en/node/634",
+      "publisher": "Musei di Genova — Comune di Genova",
+      "publisherNote": "The city museums' page on the cathedral treasury.",
+      "type": "official"
+    },
+    {
+      "id": "terrasanta-museum-culla",
+      "title": "A relic of the Holy Cradle returns to the Holy Land",
+      "url": "https://www.terrasanctamuseum.org/en/a-relic-of-the-holy-cradle-returns-to-the-holy-land-and-its-connection-to-the-holy-land-museum/",
+      "publisher": "Terra Sancta Museum",
+      "publisherNote": "The Custody of the Holy Land's museum.",
+      "type": "official"
+    },
+    {
+      "id": "iconesacre-mandylion",
+      "title": "Il Mandylion di Genova",
+      "url": "http://www.iconesacregenova.it/il-mandylion-di-genova",
+      "publisher": "Iconografi di Genova",
+      "publisherNote": "A local iconographers' group, drawing on the Barnabite Fathers' material; devotional.",
+      "type": "web"
+    },
+    {
+      "id": "mandylion-2004",
+      "title": "Mandylion: intorno al Sacro Volto (exhibition, Genoa, 2004)",
+      "url": "http://www.archiviovoltosanto.org/en/node/738",
+      "publisher": "Archivio Volto Santo",
+      "publisherNote": "Record of the 2004 exhibition and catalogue that studied the Genoa image as a Byzantine icon.",
+      "type": "archive"
     }
   ]
 }
