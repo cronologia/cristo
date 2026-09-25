@@ -56,7 +56,7 @@ const ROOT = path.join(__dirname, '..');
 // >>> ADOPT: dataset  (this repo's dataset file)
 // The template ships the example skeleton; an adopting repo points this at its
 // own ('chronology.json', 'glossary.json') in the same commit.
-const DATASET = 'chronology.example.json';
+const DATASET = 'chronology.json';
 // <<< ADOPT
 
 // A missing dataset is a FAILURE, never a skip. A completeness check that
@@ -216,7 +216,22 @@ for (const lang of LANGS) {
 // A parenthetical that NAMES rather than characterises is bibliography and
 // stays: an imprint and year, the presenters, the parent publisher. List those
 // reference ids here so the check below stays a real signal.
-const PUBLISHER_BRACKET_OK = new Set([]);
+const PUBLISHER_BRACKET_OK = new Set([
+  // The host institution of the LacusCurtius texts.
+  'tacitus-annals-15', 'suetonius-claudius',
+  // The translation series New Advent reproduces.
+  'eusebius-vc-3', 'eusebius-vc-4', 'cyril-catechesis-4', 'cyril-catechesis-10',
+  // The site's owner, named; its stance is in publisherNote.
+  'nature-1989-text', 'sturp-summary',
+  // The religious order that runs the shrine, named; its interest is in publisherNote.
+  'manoppello-veronica',
+  // The society that publishes De Re Militari.
+  'deremilitari-hattin',
+  // The imprint and year of the scanned book.
+  'rohault-1870',
+  // The journal's parent publisher.
+  'bella-azzi-2002',
+]);
 // <<< ADOPT
 
 test('references: publisherNote carries the prose, publisher the citation', () => {
