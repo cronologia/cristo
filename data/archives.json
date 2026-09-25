@@ -1,0 +1,438 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-09-25",
+  "snapshots": {
+    "https://artbonus.gov.it/il-sacro-catino.html": {
+      "refId": "artbonus-sacro-catino",
+      "archiveUrl": "https://web.archive.org/web/20240610054307/https://artbonus.gov.it/il-sacro-catino.html",
+      "timestamp": "20240610054307",
+      "checkedAt": "2026-09-25"
+    },
+    "https://bible.usccb.org/bible/1corinthians/15": {
+      "refId": "usccb-1cor-15",
+      "archiveUrl": "https://web.archive.org/web/20260410155600/https://bible.usccb.org/bible/1corinthians/15",
+      "timestamp": "20260410155600",
+      "checkedAt": "2026-09-25"
+    },
+    "https://bible.usccb.org/bible/acts/1": {
+      "refId": "usccb-acts-1",
+      "archiveUrl": "https://web.archive.org/web/20260720004027/https://bible.usccb.org/bible/acts/1",
+      "timestamp": "20260720004027",
+      "checkedAt": "2026-09-25"
+    },
+    "https://bible.usccb.org/bible/acts/9": {
+      "refId": "usccb-acts-9",
+      "archiveUrl": "https://web.archive.org/web/20260425051006/https://bible.usccb.org/bible/acts/9",
+      "timestamp": "20260425051006",
+      "checkedAt": "2026-09-25"
+    },
+    "https://bible.usccb.org/bible/luke/3": {
+      "refId": "usccb-luke-3",
+      "archiveUrl": "https://web.archive.org/web/20260618112240/https://bible.usccb.org/bible/luke/3",
+      "timestamp": "20260618112240",
+      "checkedAt": "2026-09-25"
+    },
+    "https://catedraldevalencia.es/en/jubilee-of-the-holy-chalice/": {
+      "refId": "valencia-jubileo",
+      "archiveUrl": "https://web.archive.org/web/20260123024915/https://catedraldevalencia.es/en/jubilee-of-the-holy-chalice/",
+      "timestamp": "20260123024915",
+      "checkedAt": "2026-09-25"
+    },
+    "https://catedraldevalencia.es/en/the-holy-chalice/": {
+      "refId": "valencia-caliz",
+      "archiveUrl": "https://web.archive.org/web/20260123025127/https://catedraldevalencia.es/en/the-holy-chalice/",
+      "timestamp": "20260123025127",
+      "checkedAt": "2026-09-25"
+    },
+    "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre": {
+      "refId": "wp-holy-sepulchre",
+      "archiveUrl": "https://web.archive.org/web/20260911134043/https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre",
+      "timestamp": "20260911134043",
+      "checkedAt": "2026-09-25"
+    },
+    "https://en.wikipedia.org/wiki/Dionysius_Exiguus%27_Easter_table": {
+      "refId": "wp-dionysius-easter-table",
+      "archiveUrl": "https://web.archive.org/web/20260831063214/https://en.wikipedia.org/wiki/Dionysius_Exiguus%27_Easter_table",
+      "timestamp": "20260831063214",
+      "checkedAt": "2026-09-25"
+    },
+    "https://en.wikipedia.org/wiki/Pilate_stone": {
+      "refId": "wp-pilate-stone",
+      "archiveUrl": "https://web.archive.org/web/20260911134616/https://en.wikipedia.org/wiki/Pilate_Stone",
+      "timestamp": "20260911134616",
+      "checkedAt": "2026-09-25"
+    },
+    "https://ich.unesco.org/en/RL/procession-of-the-holy-blood-in-bruges-00263": {
+      "refId": "unesco-bruges",
+      "archiveUrl": "https://web.archive.org/web/20260315014244/https://ich.unesco.org/en/RL/procession-of-the-holy-blood-in-bruges-00263",
+      "timestamp": "20260315014244",
+      "checkedAt": "2026-09-25"
+    },
+    "https://la.wikisource.org/wiki/De_obitu_Theodosii_oratio": {
+      "refId": "ambrose-obitu-theodosii",
+      "archiveUrl": "https://web.archive.org/web/20250926103456/https://la.wikisource.org/wiki/De_obitu_Theodosii_oratio",
+      "timestamp": "20250926103456",
+      "checkedAt": "2026-09-25"
+    },
+    "https://press.vatican.va/content/salastampa/en/info/2025/04/03/250402a.html": {
+      "refId": "pv-veronica-2025",
+      "archiveUrl": "https://web.archive.org/web/20260120064008/https://press.vatican.va/content/salastampa/en/info/2025/04/03/250402a.html",
+      "timestamp": "20260120064008",
+      "checkedAt": "2026-09-25"
+    },
+    "https://saintetunique.com/": {
+      "refId": "saintetunique-home",
+      "archiveUrl": "https://web.archive.org/web/20260630143654/https://saintetunique.com/",
+      "timestamp": "20260630143654",
+      "checkedAt": "2026-09-25"
+    },
+    "https://saintetunique.com/la-tunique/": {
+      "refId": "saintetunique-la-tunique",
+      "archiveUrl": "https://web.archive.org/web/20260415223304/https://saintetunique.com/la-tunique/",
+      "timestamp": "20260415223304",
+      "checkedAt": "2026-09-25"
+    },
+    "https://sindone.org/la-sindone/cose-la-sindone/": {
+      "refId": "sindone-cose",
+      "archiveUrl": "https://web.archive.org/web/20260421200610/https://sindone.org/la-sindone/cose-la-sindone/",
+      "timestamp": "20260421200610",
+      "checkedAt": "2026-09-25"
+    },
+    "https://sindone.org/ostensioni/1578-2/": {
+      "refId": "sindone-1578",
+      "archiveUrl": "https://web.archive.org/web/20260421202158/https://sindone.org/ostensioni/1578-2/",
+      "timestamp": "20260421202158",
+      "checkedAt": "2026-09-25"
+    },
+    "https://sindone.org/ostensioni/1898-2/": {
+      "refId": "sindone-1898",
+      "archiveUrl": "https://web.archive.org/web/20260610033109/https://sindone.org/ostensioni/1898-2/",
+      "timestamp": "20260610033109",
+      "checkedAt": "2026-09-25"
+    },
+    "https://sindone.org/ostensioni/1978-2/": {
+      "refId": "sindone-1978",
+      "archiveUrl": "https://web.archive.org/web/20260313234343/https://sindone.org/ostensioni/1978-2/",
+      "timestamp": "20260313234343",
+      "checkedAt": "2026-09-25"
+    },
+    "https://vias.univie.ac.at/forschung/archaeometallurgie/projekte/die-hl-lanze-des-kunsthistorischen-museums-wien/": {
+      "refId": "vias-lanze",
+      "archiveUrl": "https://web.archive.org/web/20240724183659/https://vias.univie.ac.at/forschung/archaeometallurgie/projekte/die-hl-lanze-des-kunsthistorischen-museums-wien/",
+      "timestamp": "20240724183659",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.armenianchurch.org/en/alex-marie-manoogian-museum": {
+      "refId": "etchmiadzin-treasury",
+      "archiveUrl": "https://web.archive.org/web/20251206083116/https://www.armenianchurch.org/en/alex-marie-manoogian-museum",
+      "timestamp": "20251206083116",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.basilicasanpietro.va/en/news/st-peter-s-basilica-the-rite-of-the-holy-face-to-be-repeated-on-22-march": {
+      "refId": "bsp-veronica-2026",
+      "archiveUrl": "https://web.archive.org/web/20260517182336/https://www.basilicasanpietro.va/en/news/st-peter-s-basilica-the-rite-of-the-holy-face-to-be-repeated-on-22-march",
+      "timestamp": "20260517182336",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.basilicasantamariamaggiore.va/it/basilica/storia-e-arte/sacra-culla.html": {
+      "refId": "smm-sacra-culla",
+      "archiveUrl": "https://web.archive.org/web/20260106002423/https://www.basilicasantamariamaggiore.va/it/basilica/storia-e-arte/sacra-culla.html",
+      "timestamp": "20260106002423",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.biblicalarchaeology.org/daily/bas-onsite/church-of-the-nativity/": {
+      "refId": "bas-church-nativity",
+      "archiveUrl": "https://web.archive.org/web/20260418200304/https://www.biblicalarchaeology.org/daily/bas-onsite/church-of-the-nativity/",
+      "timestamp": "20260418200304",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.bistum-trier.de/kultur-musik/der-heilige-rock/faq/index.html": {
+      "refId": "trier-faq",
+      "archiveUrl": "https://web.archive.org/web/20230528073659/https://www.bistum-trier.de/kultur-musik/der-heilige-rock/faq/index.html",
+      "timestamp": "20230528073659",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.cambridge.org/core/journals/radiocarbon/article/14c-dating-of-the-titulus-crucis/E0FFBA7E6A68A5B7196ECF3F318C2D8C": {
+      "refId": "bella-azzi-2002",
+      "archiveUrl": "https://web.archive.org/web/20260414113554/https://www.cambridge.org/core/journals/radiocarbon/article/14c-dating-of-the-titulus-crucis/E0FFBA7E6A68A5B7196ECF3F318C2D8C",
+      "timestamp": "20260414113554",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.ccel.org/m/mcclure/etheria/etheria.htm": {
+      "refId": "egeria-mcclure-1919",
+      "archiveUrl": "https://web.archive.org/web/20260905155401/https://www.ccel.org/m/mcclure/etheria/etheria.htm",
+      "timestamp": "20260905155401",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.custodia.org/en/news/holy-wednesday-jerusalem-veneration-column/": {
+      "refId": "custodia-column-2020",
+      "archiveUrl": "https://web.archive.org/web/20260211130948/https://www.custodia.org/en/news/holy-wednesday-jerusalem-veneration-column/",
+      "timestamp": "20260211130948",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.custodia.org/en/sanctuaries/basilica-of-the-holy-sepulchre/": {
+      "refId": "custodia-holy-sepulchre",
+      "archiveUrl": "https://web.archive.org/web/20260825150913/https://www.custodia.org/en/sanctuaries/basilica-of-the-holy-sepulchre/",
+      "timestamp": "20260825150913",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.herodote.net/26_avril_1248-evenement-12480426.php": {
+      "refId": "herodote-1248",
+      "archiveUrl": "https://web.archive.org/web/20260914064822/https://www.herodote.net/26_avril_1248-evenement-12480426.php",
+      "timestamp": "20260914064822",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.holyblood.com/relikwie-van-het-heilig-bloed-van-jesus-christus-en-de-heilig-bloedprocessie": {
+      "refId": "holyblood-relic",
+      "archiveUrl": "https://web.archive.org/web/20260615112458/https://www.holyblood.com/relikwie-van-het-heilig-bloed-van-jesus-christus-en-de-heilig-bloedprocessie",
+      "timestamp": "20260615112458",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.imj.org.il/en/exhibitions/cradle-christianity": {
+      "refId": "imj-cradle-christianity",
+      "archiveUrl": "https://web.archive.org/web/20260610212715/https://www.imj.org.il/en/exhibitions/cradle-christianity",
+      "timestamp": "20260610212715",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.judaism-and-rome.org/ambrose-milan-oration-death-theodosius-48": {
+      "refId": "jr-ambrose-obitu-48",
+      "archiveUrl": "https://web.archive.org/web/20250518191422/https://www.judaism-and-rome.org/ambrose-milan-oration-death-theodosius-48",
+      "timestamp": "20250518191422",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.khm.at/kunstwerke/die-heilige-lanze-100443": {
+      "refId": "khm-heilige-lanze",
+      "archiveUrl": "https://web.archive.org/web/20260307115443/https://www.khm.at/kunstwerke/die-heilige-lanze-100443",
+      "timestamp": "20260307115443",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.linteum.com/el-santo-sudario-investigaciones-estudios.php": {
+      "refId": "ces-sudario-investigaciones",
+      "archiveUrl": "https://web.archive.org/web/20240602211347/https://www.linteum.com/el-santo-sudario-investigaciones-estudios.php",
+      "timestamp": "20240602211347",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.museivaticani.va/content/museivaticani/it/eventi-e-novita/iniziative/Eventi/2019/scala-santa-apertura-straordinaria.html": {
+      "refId": "musei-vaticani-scala-2019",
+      "archiveUrl": "https://web.archive.org/web/20260208024151/https://www.museivaticani.va/content/museivaticani/it/eventi-e-novita/iniziative/Eventi/2019/scala-santa-apertura-straordinaria.html",
+      "timestamp": "20260208024151",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.museoduomomonza.it/en/iron-crown/": {
+      "refId": "monza-iron-crown",
+      "archiveUrl": "https://web.archive.org/web/20260728034457/https://www.museoduomomonza.it/en/iron-crown/",
+      "timestamp": "20260728034457",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.nature.com/articles/306743a0": {
+      "refId": "humphreys-waddington-1983",
+      "archiveUrl": "https://web.archive.org/web/20250418222707/https://www.nature.com/articles/306743a0",
+      "timestamp": "20250418222707",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.nature.com/articles/337611a0": {
+      "refId": "nature-1989",
+      "archiveUrl": "https://web.archive.org/web/20260825072135/https://www.nature.com/articles/337611a0",
+      "timestamp": "20260825072135",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/03143b.htm": {
+      "refId": "ce-caiaphas",
+      "archiveUrl": "https://web.archive.org/web/20260811172638/https://www.newadvent.org/cathen/03143b.htm",
+      "timestamp": "20260811172638",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/03738a.htm": {
+      "refId": "ce-general-chronology",
+      "archiveUrl": "https://web.archive.org/web/20260903184442/https://www.newadvent.org/cathen/03738a.htm",
+      "timestamp": "20260903184442",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/04295c.htm": {
+      "refId": "ce-constantine",
+      "archiveUrl": "https://web.archive.org/web/20260628212008/https://www.newadvent.org/cathen/04295c.htm",
+      "timestamp": "20260628212008",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/04540b.htm": {
+      "refId": "ce-crown-of-thorns",
+      "archiveUrl": "https://web.archive.org/web/20260727130734/https://www.newadvent.org/cathen/04540b.htm",
+      "timestamp": "20260727130734",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/05010b.htm": {
+      "refId": "ce-dionysius-exiguus",
+      "archiveUrl": "https://web.archive.org/web/20260525210224/https://www.newadvent.org/cathen/05010b.htm",
+      "timestamp": "20260525210224",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/05617b.htm": {
+      "refId": "ce-eusebius",
+      "archiveUrl": "https://web.archive.org/web/20260909153437/https://www.newadvent.org/cathen/05617b.htm",
+      "timestamp": "20260909153437",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/07289c.htm": {
+      "refId": "ce-herod",
+      "archiveUrl": "https://web.archive.org/web/20260915135105/https://www.newadvent.org/cathen/07289c.htm",
+      "timestamp": "20260915135105",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/08377a.htm": {
+      "refId": "ce-chronology-jesus",
+      "archiveUrl": "https://web.archive.org/web/20260726203944/https://www.newadvent.org/cathen/08377a.htm",
+      "timestamp": "20260726203944",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/08486b.htm": {
+      "refId": "ce-john-baptist",
+      "archiveUrl": "https://web.archive.org/web/20260903091158/https://www.newadvent.org/cathen/08486b.htm",
+      "timestamp": "20260903091158",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/08522a.htm": {
+      "refId": "ce-josephus",
+      "archiveUrl": "https://web.archive.org/web/20260722121534/https://www.newadvent.org/cathen/08522a.htm",
+      "timestamp": "20260722121534",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/08773a.htm": {
+      "refId": "ce-holy-lance",
+      "archiveUrl": "https://web.archive.org/web/20260726124034/https://www.newadvent.org/cathen/08773a.htm",
+      "timestamp": "20260726124034",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/10672a.htm": {
+      "refId": "ce-holy-nails",
+      "archiveUrl": "https://web.archive.org/web/20260830161200/https://www.newadvent.org/cathen/10672a.htm",
+      "timestamp": "20260830161200",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/11567b.htm": {
+      "refId": "ce-paul",
+      "archiveUrl": "https://web.archive.org/web/20260821231920/https://www.newadvent.org/cathen/11567b.htm",
+      "timestamp": "20260821231920",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/13505a.htm": {
+      "refId": "ce-scala-sancta",
+      "archiveUrl": "https://web.archive.org/web/20260714112042/https://www.newadvent.org/cathen/13505a.htm",
+      "timestamp": "20260714112042",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/13762a.htm": {
+      "refId": "ce-shroud",
+      "archiveUrl": "https://web.archive.org/web/20260414113009/https://www.newadvent.org/cathen/13762a.htm",
+      "timestamp": "20260414113009",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/cathen/15067a.htm": {
+      "refId": "ce-troyes",
+      "archiveUrl": "https://web.archive.org/web/20260617020646/https://www.newadvent.org/cathen/15067a.htm",
+      "timestamp": "20260617020646",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/fathers/25023.htm": {
+      "refId": "eusebius-vc-3",
+      "archiveUrl": "https://web.archive.org/web/20260904100508/https://www.newadvent.org/fathers/25023.htm",
+      "timestamp": "20260904100508",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.newadvent.org/fathers/25024.htm": {
+      "refId": "eusebius-vc-4",
+      "archiveUrl": "https://web.archive.org/web/20260107141159/https://www.newadvent.org/fathers/25024.htm",
+      "timestamp": "20260107141159",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.priory-of-sion.com/biblios/links/memorandum.html": {
+      "refId": "darcis-memo",
+      "archiveUrl": "https://web.archive.org/web/20251218023940/https://priory-of-sion.com/biblios/links/memorandum.html",
+      "timestamp": "20251218023940",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.santacroceroma.it/it/features-2/reliquie.html": {
+      "refId": "santacroce-reliquie",
+      "archiveUrl": "https://web.archive.org/web/20260308232659/http://www.santacroceroma.it/it/features-2/reliquie.html",
+      "timestamp": "20260308232659",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.scala-santa.com/chi-siamo/": {
+      "refId": "scala-santa-chi-siamo",
+      "archiveUrl": "https://web.archive.org/web/20260517110939/https://www.scala-santa.com/chi-siamo/",
+      "timestamp": "20260517110939",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.scala-santa.com/la-scala-santa/": {
+      "refId": "scala-santa",
+      "archiveUrl": "https://web.archive.org/web/20251203201244/https://www.scala-santa.com/la-scala-santa/",
+      "timestamp": "20251203201244",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.shroud.com/78conclu.htm": {
+      "refId": "sturp-summary",
+      "archiveUrl": "https://web.archive.org/web/20260816040416/https://www.shroud.com/78conclu.htm",
+      "timestamp": "20260816040416",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf": {
+      "refId": "humphreys-waddington-1992",
+      "archiveUrl": "https://web.archive.org/web/20260214085826/https://www.tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf",
+      "timestamp": "20260214085826",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/archive/ENG0839/__PWG.HTM": {
+      "refId": "vatican-nab-mark-14",
+      "archiveUrl": "https://web.archive.org/web/20251203085919/https://www.vatican.va/archive/ENG0839/__PWG.HTM",
+      "timestamp": "20251203085919",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/archive/ENG0839/__PWI.HTM": {
+      "refId": "vatican-nab-mark-16",
+      "archiveUrl": "https://web.archive.org/web/20250504064921/https://www.vatican.va/archive/ENG0839/__PWI.HTM",
+      "timestamp": "20250504064921",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/archive/ENG0839/__PXR.HTM": {
+      "refId": "vatican-nab-john-19",
+      "archiveUrl": "https://web.archive.org/web/20250915150243/https://www.vatican.va/archive/ENG0839/__PXR.HTM",
+      "timestamp": "20250915150243",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/content/benedict-xvi/en/speeches/2006/september/documents/hf_ben-xvi_spe_20060901_manoppello.html": {
+      "refId": "b16-manoppello-2006",
+      "archiveUrl": "https://web.archive.org/web/20260120162716/https://www.vatican.va/content/benedict-xvi/en/speeches/2006/september/documents/hf_ben-xvi_spe_20060901_manoppello.html",
+      "timestamp": "20260120162716",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/content/benedict-xvi/en/speeches/2010/may/documents/hf_ben-xvi_spe_20100502_meditazione-torino.html": {
+      "refId": "b16-2010",
+      "archiveUrl": "https://web.archive.org/web/20260615205808/https://www.vatican.va/content/benedict-xvi/en/speeches/2010/may/documents/hf_ben-xvi_spe_20100502_meditazione-torino.html",
+      "timestamp": "20260615205808",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vatican.va/content/john-paul-ii/en/speeches/1998/may/documents/hf_jp-ii_spe_19980524_sudario.html": {
+      "refId": "jp2-1998",
+      "archiveUrl": "https://web.archive.org/web/20260116071721/https://www.vatican.va/content/john-paul-ii/en/speeches/1998/may/documents/hf_jp-ii_spe_19980524_sudario.html",
+      "timestamp": "20260116071721",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vaticannews.va/it/papa/news/2019-11/reliquia-culla-gesu-bambino-papa-francesco-custodia-terrasanta.html": {
+      "refId": "vaticannews-culla-2019",
+      "archiveUrl": "https://web.archive.org/web/20250724142421/https://www.vaticannews.va/it/papa/news/2019-11/reliquia-culla-gesu-bambino-papa-francesco-custodia-terrasanta.html",
+      "timestamp": "20250724142421",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.vaticannews.va/it/vaticano/news/2024-09/reliquie-maggiori-basilica-san-pietro-vaticano-giubileo.html": {
+      "refId": "vaticannews-reliquie-2024",
+      "archiveUrl": "https://web.archive.org/web/20260716201138/https://www.vaticannews.va/it/vaticano/news/2024-09/reliquie-maggiori-basilica-san-pietro-vaticano-giubileo.html",
+      "timestamp": "20260716201138",
+      "checkedAt": "2026-09-25"
+    },
+    "https://www.voltosanto.it/e-a-roma-la-veronica/": {
+      "refId": "manoppello-veronica",
+      "archiveUrl": "https://web.archive.org/web/20260517111650/https://www.voltosanto.it/e-a-roma-la-veronica/",
+      "timestamp": "20260517111650",
+      "checkedAt": "2026-09-25"
+    }
+  }
+}
