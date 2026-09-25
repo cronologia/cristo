@@ -13,7 +13,7 @@
         "label": "🧵 Threads"
       },
       {
-        "href": "#places",
+        "href": "#places-map",
         "label": "🗺️ Places"
       },
       {
@@ -164,6 +164,412 @@
     }
   ],
   "events": [
+    {
+      "threads": [
+        "life"
+      ],
+      "year": -6,
+      "dateVerified": false,
+      "dateNote": "A range, not a date. Maas (Catholic Encyclopedia, 1910) derives 7–5 BCE from Herod's death and Matthew 2:16; the encyclopedia's \"General Chronology\" reports that \"many\" place the birth in 4 BCE. Both put it before Herod's death, which Luke's census (6 CE) does not.",
+      "place": "Bethlehem",
+      "title": "The birth of Jesus, as Matthew dates it: \"in the days of King Herod\"",
+      "text": "Matthew narrates that Jesus \"was born in Bethlehem of Judea, in the days of King Herod\", and that the family fled to Egypt and returned only \"when Herod had died\". Scholars who follow Matthew's anchor place the birth a few years before 4 BCE.",
+      "sources": [
+        "usccb-matthew-2",
+        "ce-chronology-jesus",
+        "ce-general-chronology"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": -4,
+      "dateVerified": true,
+      "dateNote": "The majority date, from Josephus: the death follows a lunar eclipse that Whiston and the Catholic Encyclopedia identify as that of 12–13 March 4 BCE. A minority argues for 1 BCE (Filmer, 1966; Steinmann, 2009); those studies were not read for this dataset.",
+      "place": "Judea",
+      "title": "Death of Herod the Great",
+      "text": "Josephus places Herod's death shortly after an eclipse of the moon; the Catholic bishops' Bible notes that he \"reigned from 37 to 4 B.C.\" Matthew's birth narrative is set in his reign, so the birth of Jesus falls before 4 BCE by Matthew's account.",
+      "sources": [
+        "josephus-ant-whiston",
+        "ce-herod",
+        "usccb-matthew-2"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 6,
+      "dateVerified": true,
+      "dateNote": "The census date is well attested (6–7 CE); that Jesus was born at it is Luke's narrative, which cannot be reconciled with Matthew's Herod-era birth.",
+      "place": "Bethlehem",
+      "title": "Luke's census \"when Quirinius was governor of Syria\"",
+      "text": "Luke narrates that Joseph and Mary went to Bethlehem to be enrolled in \"the first enrollment, when Quirinius was governor of Syria\". Quirinius became legate of Syria in 6–7 CE, about a decade after Herod's death. The Catholic bishops' own Bible notes that there are \"notorious historical problems\" with this dating and that \"the various attempts to resolve the difficulties have proved unsuccessful\".",
+      "sources": [
+        "usccb-luke-2",
+        "josephus-ant-whiston"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 14,
+      "dateVerified": true,
+      "dateNote": "19 August 14, per Whiston's note; the year is secure.",
+      "place": "Rome, Italy",
+      "title": "Tiberius succeeds Augustus",
+      "text": "Tiberius becomes emperor. Luke's \"fifteenth year of Tiberius\", which dates the start of John the Baptist's preaching, is counted from his reign.",
+      "sources": [
+        "usccb-luke-3",
+        "josephus-ant-whiston"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 18,
+      "dateVerified": false,
+      "dateNote": "\"About A.D. 18\" (Catholic Encyclopedia); the bishops' Bible note gives Caiaphas's high priesthood as 18–36.",
+      "place": "Jerusalem",
+      "title": "Caiaphas becomes high priest",
+      "text": "Joseph Caiaphas is appointed high priest by the Roman prefect Valerius Gratus; his father-in-law Annas had held the office in 6–15. Both appear in the Gospels' account of the Passion.",
+      "sources": [
+        "ce-caiaphas",
+        "usccb-luke-3"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 26,
+      "dateVerified": true,
+      "place": "Caesarea Maritima, Israel",
+      "title": "Pontius Pilate becomes prefect of Judea",
+      "text": "Pilate succeeds Valerius Gratus; the bishops' Bible note calls him \"prefect of Judea from A.D. 26 to 36\". An inscription found at Caesarea in 1961 gives his title as prefect; Tacitus and later writers call him procurator.",
+      "sources": [
+        "usccb-luke-3",
+        "ce-pilate",
+        "josephus-ant-whiston"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 28,
+      "dateVerified": false,
+      "dateNote": "The bishops' Bible note puts the fifteenth year of Tiberius \"between A.D. 27 and 29\"; counted from an earlier co-regency it falls c. 26; Maas gives 25/26 or 29.",
+      "place": "Jordan River",
+      "title": "\"The fifteenth year of Tiberius\": John the Baptist begins to preach",
+      "text": "Luke dates the start of John's preaching by a full set of anchors: the fifteenth year of Tiberius, when Pilate governed Judea and Herod Antipas Galilee, \"during the high priesthood of Annas and Caiaphas\".",
+      "sources": [
+        "usccb-luke-3",
+        "ce-chronology-jesus"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 28,
+      "dateVerified": false,
+      "dateNote": "A range, c. 27–29 on Luke's synchronism; Maas, reckoning from a 7–5 BCE birth, puts the public life earlier.",
+      "place": "Jordan River",
+      "title": "The baptism of Jesus and the start of his ministry",
+      "text": "The Gospels narrate that Jesus was baptized by John and began to preach; Luke says he was \"about thirty years of age\". The Synoptic Gospels can be read as describing a single year of ministry; John mentions three Passovers.",
+      "sources": [
+        "usccb-luke-3",
+        "ce-chronology-jesus",
+        "humphreys-waddington-1992"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 30,
+      "dateVerified": false,
+      "dateNote": "Two dates remain in play: Friday 7 April 30 and Friday 3 April 33 (Julian). Humphreys and Waddington favour 33 but write that \"the date 7 April AD 30 is also strongly supported\" and that the question cannot be decided conclusively; a patristic tradition cited by Maas gives 29. The Synoptic Gospels place the death on the day after the Passover meal, John on the day of preparation; Mark says the crucifixion was at the third hour, John that the sentence came \"about noon\".",
+      "place": "Jerusalem",
+      "title": "The crucifixion of Jesus under Pontius Pilate",
+      "text": "The Gospels narrate that Jesus was condemned by Pilate and crucified at \"the Place of the Skull, in Hebrew, Golgotha\". Tacitus writes that \"Christus … had undergone the death penalty in the reign of Tiberius, by sentence of the procurator Pontius Pilatus\" — the Roman historian's independent witness to the execution.",
+      "sources": [
+        "vatican-nab-john-19",
+        "vatican-nab-mark-15",
+        "tacitus-annals-15",
+        "humphreys-waddington-1992",
+        "humphreys-waddington-1983",
+        "ce-chronology-jesus"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 30,
+      "dateVerified": false,
+      "dateNote": "\"The first day of the week\" after the crucifixion — so 9 April 30 or 5 April 33, depending on the crucifixion year.",
+      "place": "Jerusalem",
+      "title": "The empty tomb and the Resurrection, as proclaimed",
+      "text": "The Gospels narrate that women found the tomb open \"very early … on the first day of the week\"; Paul hands on an earlier formula, that Christ \"was raised on the third day\" and \"appeared to Cephas, then to the Twelve\". Christians profess the Resurrection; historians treat the proclamation as the earliest disciples' claim. This site records both, and adjudicates neither.",
+      "sources": [
+        "vatican-nab-mark-16",
+        "usccb-1cor-15"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 30,
+      "dateVerified": false,
+      "dateNote": "Acts gives forty days after Easter; Luke 24 appears to place the ascension at Bethany on Easter day itself.",
+      "place": "Jerusalem",
+      "title": "The Ascension, as narrated",
+      "text": "Acts narrates appearances \"during forty days\" and that on the Mount of Olives \"he was lifted up, and a cloud took him from their sight\".",
+      "sources": [
+        "usccb-acts-1"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 35,
+      "dateVerified": false,
+      "dateNote": "A reckoning, not a record: Prat (Catholic Encyclopedia) holds it \"not prior to 34\" and proposes 35; the absolute date depends on the crucifixion year.",
+      "place": "Damascus, Syria",
+      "title": "The conversion of Paul",
+      "text": "Acts narrates that on the road to Damascus a light flashed and a voice said, \"Saul, Saul, why are you persecuting me?\"",
+      "sources": [
+        "usccb-acts-9",
+        "ce-paul"
+      ]
+    },
+    {
+      "threads": [
+        "life"
+      ],
+      "year": 36,
+      "dateVerified": true,
+      "place": "Jerusalem",
+      "title": "Pilate is recalled; Caiaphas is removed",
+      "text": "Josephus writes that Pilate, \"when he had tarried ten years in Judea, made haste to Rome\", arriving after Tiberius had died; the Syrian legate Vitellius removes Caiaphas from the high priesthood.",
+      "sources": [
+        "josephus-ant-whiston",
+        "ce-pilate",
+        "ce-caiaphas",
+        "cojs-caiaphas-ossuary"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 49,
+      "dateVerified": false,
+      "dateNote": "Suetonius gives no year; 49 rests on the 5th-century Orosius, not read here. Whether \"Chrestus\" means Jesus is disputed.",
+      "place": "Rome, Italy",
+      "title": "Suetonius: Claudius expels Jews \"at the instigation of Chrestus\"",
+      "text": "Suetonius writes that \"since the Jews constantly made disturbances at the instigation of Chrestus\", Claudius expelled them from Rome — read by many as an early, garbled reference to Christ, by others as a different man.",
+      "sources": [
+        "suetonius-claudius"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 62,
+      "dateVerified": false,
+      "dateNote": "The year is an inference from the interval between the procurators Festus and Albinus; Josephus gives no number.",
+      "place": "Jerusalem",
+      "title": "Josephus: James, \"the brother of Jesus, who was called Christ\", is stoned",
+      "text": "Josephus narrates that the high priest Ananus convened the Sanhedrin and had James, \"the brother of Jesus, who was called Christ\", stoned.",
+      "sources": [
+        "josephus-ant-whiston"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 64,
+      "dateVerified": true,
+      "dateNote": "Tacitus dates the fire by the consulship of Laecanius and Licinius, which is 64.",
+      "place": "Rome, Italy",
+      "title": "Tacitus: Nero blames the Christians for the fire of Rome",
+      "text": "Tacitus records that Nero punished \"Christians\" for the Great Fire, and explains the name: \"Christus, the founder of the name, had undergone the death penalty in the reign of Tiberius, by sentence of the procurator Pontius Pilatus\".",
+      "sources": [
+        "tacitus-annals-15"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 93,
+      "dateVerified": false,
+      "dateNote": "93/94, the thirteenth year of Domitian — a date not confirmed in a source read here. The passage's authenticity is disputed.",
+      "place": "Rome, Italy",
+      "title": "Josephus's Antiquities and the Testimonium Flavianum",
+      "text": "The Antiquities contain a paragraph calling Jesus \"a wise man, if it be lawful to call him a man\" and saying \"He was [the] Christ\". Its authenticity has long been disputed; even the Catholic Encyclopedia of 1910 wrote that \"the difficulty has not been definitively settled. The passage seems to suffer from repeated interpolations.\"",
+      "sources": [
+        "josephus-ant-whiston",
+        "ce-josephus"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 111,
+      "dateVerified": false,
+      "dateNote": "Pliny's governorship of Bithynia is usually dated c. 111–113; no source read here gives the year.",
+      "place": "Bithynia, Turkey",
+      "title": "Pliny the Younger writes to Trajan about the Christians",
+      "text": "Governing Bithynia, Pliny reports that Christians \"met on a stated day before it was light, and addressed a form of prayer to Christ, as to a divinity\" — a Roman official's description of early Christian worship.",
+      "sources": [
+        "pliny-letters-melmoth"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 130,
+      "dateVerified": false,
+      "dateNote": "Eusebius gives no year; the attribution to Hadrian's foundation of Aelia Capitolina, c. 130, is a tertiary source's.",
+      "place": "Jerusalem",
+      "title": "A temple is built over the site later venerated as the tomb",
+      "text": "Eusebius writes that the tomb had been buried and covered with \"a gloomy shrine of lifeless idols to the impure spirit whom they call Venus\" — the site Constantine later cleared.",
+      "sources": [
+        "eusebius-vc-3",
+        "wp-holy-sepulchre"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 326,
+      "dateVerified": true,
+      "dateNote": "c. 326, per the Catholic Encyclopedia; Eusebius gives no year.",
+      "place": "Jerusalem",
+      "title": "Constantine clears the site and the tomb is found",
+      "text": "Eusebius narrates that when the ground was cleared, \"contrary to all expectation, the venerable and hollowed monument of our Saviour's resurrection was discovered\", and reproduces Constantine's letter ordering a church. The identification is Eusebius's and the Church's; the Catholic Encyclopedia notes that knowledge of the place was held to have been handed down by oral tradition. Eusebius does not mention the Cross here.",
+      "sources": [
+        "eusebius-vc-3",
+        "ce-holy-sepulchre"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 327,
+      "dateVerified": false,
+      "dateNote": "The Catholic Encyclopedia dates the journey after 324; the Biblical Archaeology Society gives 327; Eusebius gives no year.",
+      "place": "Bethlehem / Jerusalem",
+      "title": "Helena founds churches at Bethlehem and on the Mount of Olives",
+      "text": "Eusebius narrates that Constantine's mother Helena \"dedicated two churches\", one at the grotto of the Nativity and one \"on the mount of his ascension\".",
+      "sources": [
+        "eusebius-vc-3",
+        "ce-helena",
+        "bas-church-nativity"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 335,
+      "dateVerified": true,
+      "dateNote": "13 September 335, per the tertiary source; the Catholic Encyclopedia gives 336. Eusebius places it in Constantine's thirtieth regnal year (July 335 – July 336).",
+      "place": "Jerusalem",
+      "title": "The church of the Holy Sepulchre is dedicated",
+      "text": "Bishops gather at Jerusalem for the dedication of Constantine's church at the tomb, per Eusebius.",
+      "sources": [
+        "eusebius-vc-4",
+        "wp-holy-sepulchre",
+        "ce-holy-sepulchre"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 339,
+      "dateVerified": false,
+      "dateNote": "31 May 339, per one popular-scholarly source; no institutional page confirming it was read.",
+      "place": "Bethlehem",
+      "title": "The Church of the Nativity is consecrated",
+      "text": "The basilica over the grotto venerated as the birthplace is consecrated, per the Biblical Archaeology Society, which adds that the church standing today is Justinian's 6th-century rebuilding.",
+      "sources": [
+        "bas-church-nativity"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 525,
+      "dateVerified": false,
+      "dateNote": "525 per the tertiary source; \"about the year 527\" per the Catholic Encyclopedia.",
+      "place": "Rome, Italy",
+      "title": "Dionysius Exiguus numbers the years from the Incarnation",
+      "text": "Preparing an Easter table, the monk Dionysius Exiguus counts years \"from the Incarnation\" rather than from the persecuting emperor Diocletian — the origin of the Anno Domini era. By Matthew's account, which puts the birth before Herod's death in 4 BCE, the era's own epoch is several years late.",
+      "sources": [
+        "ce-dionysius-exiguus",
+        "ce-general-chronology",
+        "wp-dionysius-easter-table"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 1961,
+      "dateVerified": true,
+      "place": "Caesarea Maritima, Israel",
+      "title": "The Pilate inscription is found at Caesarea",
+      "text": "An Italian excavation finds a limestone dedication naming \"[Pon]tius Pilatus … [Praef]ectus Iudae[ae]\", reused in the theatre; it is now in the Israel Museum.",
+      "sources": [
+        "wp-pilate-stone",
+        "imj-cradle-christianity"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 1990,
+      "dateVerified": true,
+      "place": "Jerusalem",
+      "title": "The Caiaphas ossuary is found",
+      "text": "Construction work south of the Old City exposes a family tomb; one ossuary is inscribed \"Yehosef bar Qayafa\", Joseph son of Caiaphas. Its identification with the Gospels' high priest is held possible by some scholars and challenged by others.",
+      "sources": [
+        "cojs-caiaphas-ossuary",
+        "imj-cradle-christianity"
+      ]
+    },
+    {
+      "threads": [
+        "witnesses"
+      ],
+      "year": 2012,
+      "dateVerified": true,
+      "place": "Bethlehem",
+      "title": "The Church of the Nativity becomes a World Heritage site",
+      "text": "UNESCO inscribes the \"Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem\" and places it on the List of World Heritage in Danger, from which it was removed in 2019.",
+      "sources": [
+        "unesco-1433"
+      ]
+    },
     {
       "threads": [
         "relics"
@@ -605,7 +1011,7 @@
       "year": 1989,
       "date": "1989-02-16",
       "dateVerified": true,
-      "place": "Tucson, Arizona, USA / Oxford, United Kingdom / Zurich, Switzerland",
+      "place": "Tucson, Arizona, USA / Oxford, England / Zurich, Switzerland",
       "title": "Radiocarbon dating places the Shroud's linen in 1260–1390",
       "text": "The Arizona, Oxford and Zurich laboratories report in Nature that \"the age of the shroud is obtained as AD 1260-1390, with at least 95% confidence\". Later critiques contest the sample and the statistics, among them a 2019 analysis of the raw data in Archaeometry; the result and the critiques are each their authors'.",
       "sources": [
@@ -833,14 +1239,108 @@
   ],
   "figures": [
     {
+      "name": "Herod the Great",
+      "role": "Roman client king of Judea, \"from 37 to 4 B.C.\" per the bishops' Bible notes; Matthew's birth narrative is set in his reign",
+      "dates": "reigned 37–4 BCE",
+      "country": "Judea",
+      "sources": [
+        "usccb-matthew-2",
+        "ce-herod",
+        "josephus-ant-whiston"
+      ]
+    },
+    {
+      "name": "Pontius Pilate",
+      "role": "Roman prefect of Judea who sentenced Jesus, per the Gospels, Tacitus and Josephus; the Caesarea inscription gives his title as prefect",
+      "dates": "prefect 26–36",
+      "country": "Roman Empire",
+      "sources": [
+        "usccb-luke-3",
+        "ce-pilate",
+        "tacitus-annals-15"
+      ]
+    },
+    {
+      "name": "Joseph Caiaphas",
+      "role": "High priest at the time of Jesus's trial, per the Gospels",
+      "dates": "high priest c. 18–36",
+      "country": "Judea",
+      "sources": [
+        "ce-caiaphas",
+        "usccb-luke-3",
+        "cojs-caiaphas-ossuary"
+      ]
+    },
+    {
+      "name": "John the Baptist",
+      "role": "Preacher of repentance who baptized Jesus, per the Gospels; Josephus records his imprisonment and execution by Herod Antipas",
+      "dates": "preaching from c. 27–29",
+      "country": "Judea",
+      "sources": [
+        "usccb-luke-3",
+        "ce-john-baptist"
+      ]
+    },
+    {
+      "name": "Paul of Tarsus",
+      "role": "Apostle; in 1 Corinthians 15 he hands on a formula of the Resurrection that he says he himself received",
+      "dates": "conversion c. 34–35",
+      "country": "Roman Empire",
+      "sources": [
+        "usccb-acts-9",
+        "usccb-1cor-15",
+        "ce-paul"
+      ]
+    },
+    {
+      "name": "Flavius Josephus",
+      "role": "Jewish historian; his Antiquities mention James \"the brother of Jesus\" and contain the disputed Testimonium",
+      "dates": "37 – c. 101",
+      "country": "Judea / Rome",
+      "sources": [
+        "ce-josephus",
+        "josephus-ant-whiston"
+      ]
+    },
+    {
+      "name": "Constantine I",
+      "role": "Roman emperor who ordered the church at the tomb in Jerusalem, per Eusebius",
+      "dates": "emperor 306–337",
+      "country": "Roman Empire",
+      "sources": [
+        "ce-constantine",
+        "eusebius-vc-3"
+      ]
+    },
+    {
+      "name": "Eusebius of Caesarea",
+      "role": "Bishop and historian; his Life of Constantine is the near-contemporary — and panegyrical — account of the Jerusalem and Bethlehem churches",
+      "dates": "c. 260 – before 341",
+      "country": "Roman Empire",
+      "sources": [
+        "ce-eusebius",
+        "eusebius-vc-3"
+      ]
+    },
+    {
+      "name": "Dionysius Exiguus",
+      "role": "Monk in Rome whose Easter table introduced the reckoning of years from the Incarnation",
+      "dates": "d. before 544",
+      "country": "Rome",
+      "sources": [
+        "ce-dionysius-exiguus"
+      ]
+    },
+    {
       "name": "Helena",
-      "role": "Mother of Constantine; journeyed to Palestine after 324 and built churches there, per the Catholic Encyclopedia citing Eusebius. The finding of the Cross is first credited to her by Ambrose in 395",
+      "role": "Mother of Constantine; journeyed to Palestine after 324 and dedicated churches at Bethlehem and on the Mount of Olives, per Eusebius. The finding of the Cross is first credited to her by Ambrose in 395; Eusebius does not connect her with it",
       "dates": "c. 250 – c. 330",
       "country": "Roman Empire",
       "sources": [
         "ambrose-obitu-theodosii",
         "jr-ambrose-obitu-48",
-        "ce-helena"
+        "ce-helena",
+        "eusebius-vc-3"
       ]
     },
     {
@@ -970,6 +1470,54 @@
     "note": "This subject is contested terrain twice over: between faith and historical criticism about the life, and between tradition and the laboratory about the relics. These distinctions are the ones readers most often flatten.",
     "items": [
       {
+        "title": "The Jesus of history ≠ the Christ of faith",
+        "text": "Two registers, both recorded here and neither allowed to settle the other: what historical method reconstructs from the sources — that Jesus was executed under Pilate, attested by the Gospels and Tacitus — and what the Church professes, that he is the Christ, the Son of God, risen. The site writes \"the Gospels narrate\" and \"Christians profess\" for the second, and names the historian for the first.",
+        "sources": [
+          "tacitus-annals-15",
+          "usccb-1cor-15"
+        ]
+      },
+      {
+        "title": "BCE / CE, and the error in Anno Domini",
+        "text": "BCE and CE number the years exactly as BC and AD do. Dionysius Exiguus counted from the Incarnation, but by Matthew's account the birth fell before Herod's death in 4 BCE — so, by the era's own numbering, \"before Christ\". There is no year zero: 1 BCE is followed by 1 CE.",
+        "sources": [
+          "ce-general-chronology",
+          "ce-dionysius-exiguus"
+        ]
+      },
+      {
+        "title": "Julian dates",
+        "text": "Every ancient date here — 7 April 30, 3 April 33, 13 September 335 — is in the Julian calendar used at the time, not converted to the Gregorian.",
+        "sources": [
+          "humphreys-waddington-1992"
+        ]
+      },
+      {
+        "title": "Prefect ≠ procurator",
+        "text": "The Caesarea inscription gives Pilate's title as praefectus; Tacitus and later writers call him procurator, the title the office bore later. Both appear in the sources quoted here.",
+        "sources": [
+          "wp-pilate-stone",
+          "tacitus-annals-15"
+        ]
+      },
+      {
+        "title": "Three Herods",
+        "text": "Herod the Great, in whose reign Matthew sets the birth, died in 4 BCE; Herod Antipas, tetrarch of Galilee, appears in the ministry and the Passion; Herod Agrippa I appears in Acts. They are different men.",
+        "sources": [
+          "ce-herod",
+          "usccb-luke-3"
+        ]
+      },
+      {
+        "title": "The day of the crucifixion: 14 or 15 Nisan",
+        "text": "In the Synoptic Gospels the Last Supper is a Passover meal and Jesus dies the next day; in John he dies on the day of preparation, before the Passover. Both place the death on a Friday. Harmonizations exist and are one view among several.",
+        "sources": [
+          "vatican-nab-mark-14",
+          "vatican-nab-john-19",
+          "humphreys-waddington-1992"
+        ]
+      },
+      {
         "title": "Shroud ≠ Sudarium",
         "text": "The Shroud of Turin is a full-length linen bearing the double image of a man; the Sudarium of Oviedo is a face cloth with stains and no image. They are different objects in different cities; the claim that they fit together is that of the Spanish sindonologists, not a finding.",
         "sources": [
@@ -1023,6 +1571,302 @@
     "note": "Every recorded event that names a place is placed here — the places of the life as the Gospels and scholars locate them, and the churches, museums and treasuries where the relics were first recorded, moved and kept. An event that names two places is drawn at both. The year control is an aid, not a claim: several dates here are ranges or disputed, and a slider cannot show a disagreement, so read the dashed markers and the chronology entries for what is settled."
   },
   "references": [
+    {
+      "id": "usccb-luke-2",
+      "title": "Luke, chapter 2 (New American Bible, Revised Edition, with notes)",
+      "url": "https://bible.usccb.org/bible/luke/2",
+      "publisher": "United States Conference of Catholic Bishops",
+      "publisherNote": "The Catholic bishops' official English Bible; its notes are critical-scholarly.",
+      "type": "book"
+    },
+    {
+      "id": "usccb-luke-3",
+      "title": "Luke, chapter 3 (New American Bible, Revised Edition, with notes)",
+      "url": "https://bible.usccb.org/bible/luke/3",
+      "publisher": "United States Conference of Catholic Bishops",
+      "publisherNote": "The Catholic bishops' official English Bible; its notes are critical-scholarly.",
+      "type": "book"
+    },
+    {
+      "id": "usccb-matthew-2",
+      "title": "Matthew, chapter 2 (New American Bible, Revised Edition, with notes)",
+      "url": "https://bible.usccb.org/bible/matthew/2",
+      "publisher": "United States Conference of Catholic Bishops",
+      "publisherNote": "The Catholic bishops' official English Bible; its notes are critical-scholarly.",
+      "type": "book"
+    },
+    {
+      "id": "usccb-acts-1",
+      "title": "Acts of the Apostles, chapter 1 (New American Bible, Revised Edition)",
+      "url": "https://bible.usccb.org/bible/acts/1",
+      "publisher": "United States Conference of Catholic Bishops",
+      "publisherNote": "The Catholic bishops' official English Bible; its notes are critical-scholarly.",
+      "type": "book"
+    },
+    {
+      "id": "usccb-acts-9",
+      "title": "Acts of the Apostles, chapter 9 (New American Bible, Revised Edition)",
+      "url": "https://bible.usccb.org/bible/acts/9",
+      "publisher": "United States Conference of Catholic Bishops",
+      "publisherNote": "The Catholic bishops' official English Bible; its notes are critical-scholarly.",
+      "type": "book"
+    },
+    {
+      "id": "usccb-1cor-15",
+      "title": "1 Corinthians, chapter 15 (New American Bible, Revised Edition)",
+      "url": "https://bible.usccb.org/bible/1corinthians/15",
+      "publisher": "United States Conference of Catholic Bishops",
+      "publisherNote": "The Catholic bishops' official English Bible; its notes are critical-scholarly.",
+      "type": "book"
+    },
+    {
+      "id": "vatican-nab-mark-14",
+      "title": "Mark, chapter 14 (New American Bible)",
+      "url": "https://www.vatican.va/archive/ENG0839/__PWG.HTM",
+      "publisher": "Holy See",
+      "publisherNote": "The Holy See's copy of the New American Bible.",
+      "type": "book"
+    },
+    {
+      "id": "vatican-nab-mark-15",
+      "title": "Mark, chapter 15 (New American Bible)",
+      "url": "https://www.vatican.va/archive/ENG0839/__PWH.HTM",
+      "publisher": "Holy See",
+      "publisherNote": "The Holy See's copy of the New American Bible.",
+      "type": "book"
+    },
+    {
+      "id": "vatican-nab-mark-16",
+      "title": "Mark, chapter 16 (New American Bible)",
+      "url": "https://www.vatican.va/archive/ENG0839/__PWI.HTM",
+      "publisher": "Holy See",
+      "publisherNote": "The Holy See's copy of the New American Bible.",
+      "type": "book"
+    },
+    {
+      "id": "vatican-nab-john-19",
+      "title": "John, chapter 19 (New American Bible)",
+      "url": "https://www.vatican.va/archive/ENG0839/__PXR.HTM",
+      "publisher": "Holy See",
+      "publisherNote": "The Holy See's copy of the New American Bible.",
+      "type": "book"
+    },
+    {
+      "id": "josephus-ant-whiston",
+      "title": "Flavius Josephus, The Antiquities of the Jews (tr. William Whiston)",
+      "url": "https://www.gutenberg.org/files/2848/2848-h/2848-h.htm",
+      "publisher": "Project Gutenberg",
+      "publisherNote": "The 1737 translation; Whiston's footnotes are his own, written from an 18th-century Christian perspective.",
+      "type": "book"
+    },
+    {
+      "id": "tacitus-annals-15",
+      "title": "Tacitus, Annals, book XV (Loeb translation)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html",
+      "publisher": "LacusCurtius (University of Chicago)",
+      "publisherNote": "Public-domain translation of the Roman historian.",
+      "type": "book"
+    },
+    {
+      "id": "suetonius-claudius",
+      "title": "Suetonius, Life of Claudius (Loeb translation)",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html",
+      "publisher": "LacusCurtius (University of Chicago)",
+      "publisherNote": "Public-domain translation of the Roman biographer.",
+      "type": "book"
+    },
+    {
+      "id": "pliny-letters-melmoth",
+      "title": "Letters of Pliny the Younger (tr. Melmoth, revised Bosanquet)",
+      "url": "https://www.gutenberg.org/files/2811/2811-h/2811-h.htm",
+      "publisher": "Project Gutenberg",
+      "publisherNote": "An 18th-century translation whose letter numbering differs from the standard (letter XCVII is Ep. 10.96).",
+      "type": "book"
+    },
+    {
+      "id": "eusebius-vc-3",
+      "title": "Eusebius, Life of Constantine, book III",
+      "url": "https://www.newadvent.org/fathers/25023.htm",
+      "publisher": "New Advent (Nicene and Post-Nicene Fathers)",
+      "publisherNote": "A near-contemporary but panegyrical source on Constantine.",
+      "type": "book"
+    },
+    {
+      "id": "eusebius-vc-4",
+      "title": "Eusebius, Life of Constantine, book IV",
+      "url": "https://www.newadvent.org/fathers/25024.htm",
+      "publisher": "New Advent (Nicene and Post-Nicene Fathers)",
+      "publisherNote": "A near-contemporary but panegyrical source on Constantine.",
+      "type": "book"
+    },
+    {
+      "id": "ce-chronology-jesus",
+      "title": "Chronology of the Life of Jesus Christ (Catholic Encyclopedia, 1910)",
+      "url": "https://www.newadvent.org/cathen/08377a.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work (Anthony Maas), written from the faith perspective and harmonizing the Gospels.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-general-chronology",
+      "title": "General Chronology (Catholic Encyclopedia, 1908)",
+      "url": "https://www.newadvent.org/cathen/03738a.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1908.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-dionysius-exiguus",
+      "title": "Dionysius Exiguus (Catholic Encyclopedia, 1909)",
+      "url": "https://www.newadvent.org/cathen/05010b.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work (John Gerard), 1909.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-herod",
+      "title": "Herod (Catholic Encyclopedia, 1910)",
+      "url": "https://www.newadvent.org/cathen/07289c.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1910.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-pilate",
+      "title": "Pontius Pilate (Catholic Encyclopedia, 1911)",
+      "url": "https://www.newadvent.org/cathen/12083c.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1911.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-caiaphas",
+      "title": "Joseph Caiphas (Catholic Encyclopedia, 1908)",
+      "url": "https://www.newadvent.org/cathen/03143b.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1908.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-john-baptist",
+      "title": "St. John the Baptist (Catholic Encyclopedia, 1910)",
+      "url": "https://www.newadvent.org/cathen/08486b.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1910.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-josephus",
+      "title": "Flavius Josephus (Catholic Encyclopedia, 1910)",
+      "url": "https://www.newadvent.org/cathen/08522a.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1910; it calls the Testimonium's authenticity unsettled.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-paul",
+      "title": "St. Paul (Catholic Encyclopedia, 1911)",
+      "url": "https://www.newadvent.org/cathen/11567b.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work (Ferdinand Prat), 1911.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-constantine",
+      "title": "Constantine the Great (Catholic Encyclopedia, 1908)",
+      "url": "https://www.newadvent.org/cathen/04295c.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1908.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-eusebius",
+      "title": "Eusebius of Caesarea (Catholic Encyclopedia, 1909)",
+      "url": "https://www.newadvent.org/cathen/05617b.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1909.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "ce-holy-sepulchre",
+      "title": "Holy Sepulchre (Catholic Encyclopedia, 1910)",
+      "url": "https://www.newadvent.org/cathen/07425a.htm",
+      "publisher": "Catholic Encyclopedia — New Advent",
+      "publisherNote": "Catholic reference work, 1910.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "humphreys-waddington-1992",
+      "title": "Humphreys and Waddington, \"The Jewish Calendar, a Lunar Eclipse and the Date of Christ's Crucifixion\", Tyndale Bulletin 43.2 (1992)",
+      "url": "https://www.tyndalebulletin.org/article/30487-the-jewish-calendar-a-lunar-eclipse-and-the-date-of-christ-s-crucifixion.pdf",
+      "publisher": "Tyndale House, Cambridge",
+      "publisherNote": "Astronomical and calendrical study published by an evangelical biblical-research institute.",
+      "type": "academic"
+    },
+    {
+      "id": "humphreys-waddington-1983",
+      "title": "Humphreys and Waddington, \"Dating the Crucifixion\", Nature 306 (1983), 743–746",
+      "url": "https://www.nature.com/articles/306743a0",
+      "publisher": "Nature",
+      "publisherNote": "Peer-reviewed; read at the level of its abstract.",
+      "type": "academic"
+    },
+    {
+      "id": "cojs-caiaphas-ossuary",
+      "title": "Ossuary of the High Priest Caiaphas, 18–36 CE",
+      "url": "https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/",
+      "publisher": "Center for Online Judaic Studies",
+      "publisherNote": "Jewish-studies educational site.",
+      "type": "academic"
+    },
+    {
+      "id": "imj-cradle-christianity",
+      "title": "The Cradle of Christianity (exhibition)",
+      "url": "https://www.imj.org.il/en/exhibitions/cradle-christianity",
+      "publisher": "The Israel Museum, Jerusalem",
+      "publisherNote": "The museum that holds the Pilate inscription and the Caiaphas ossuary.",
+      "type": "official"
+    },
+    {
+      "id": "bas-church-nativity",
+      "title": "OnSite: Bethlehem's Church of the Nativity",
+      "url": "https://www.biblicalarchaeology.org/daily/bas-onsite/church-of-the-nativity/",
+      "publisher": "Biblical Archaeology Society",
+      "publisherNote": "Popular-scholarly archaeology magazine.",
+      "type": "news"
+    },
+    {
+      "id": "unesco-1433",
+      "title": "Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem",
+      "url": "https://whc.unesco.org/en/list/1433/",
+      "publisher": "UNESCO World Heritage Centre",
+      "publisherNote": "The World Heritage listing; read through its Wayback Machine snapshot of 20 September 2026, the live page being bot-walled.",
+      "type": "official"
+    },
+    {
+      "id": "wp-pilate-stone",
+      "title": "Pilate stone",
+      "url": "https://en.wikipedia.org/wiki/Pilate_stone",
+      "publisher": "Wikipedia",
+      "publisherNote": "Tertiary; used only for the discovery details, with the museum page.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "wp-holy-sepulchre",
+      "title": "Church of the Holy Sepulchre",
+      "url": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre",
+      "publisher": "Wikipedia",
+      "publisherNote": "Tertiary.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "wp-dionysius-easter-table",
+      "title": "Dionysius Exiguus' Easter table",
+      "url": "https://en.wikipedia.org/wiki/Dionysius_Exiguus%27_Easter_table",
+      "publisher": "Wikipedia",
+      "publisherNote": "Tertiary.",
+      "type": "encyclopedia"
+    },
     {
       "id": "sindone-dove",
       "title": "Dov'è la Sindone",
