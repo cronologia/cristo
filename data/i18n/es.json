@@ -1,12 +1,13 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "608/608",
+    "coverage": "610/610",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-09-25 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes (add the new key, delete the stale one). Proper names, reference titles, URLs, dates and ids are never translated.",
     "humanReviewed": false
   },
   "strings": {
+    "1983": "1983",
     "\"About A.D. 18\" (Catholic Encyclopedia); the bishops' Bible note gives Caiaphas's high priesthood as 18–36.": "«Hacia el 18 d. C.» (Catholic Encyclopedia); la nota de la Biblia de los obispos sitúa el sumo sacerdocio de Caifás en 18–36.",
     "\"The fifteenth year of Tiberius\": John the Baptist begins to preach": "«El año decimoquinto de Tiberio»: Juan el Bautista comienza a predicar",
     "\"The first day of the week\" after the crucifixion — so 9 April 30 or 5 April 33, depending on the crucifixion year.": "«El primer día de la semana» después de la crucifixión — es decir, el 9 de abril del 30 o el 5 de abril del 33, según el año de la crucifixión.",
@@ -614,6 +615,7 @@
     "The city museums' page on the cathedral treasury.": "La página de los museos municipales sobre el tesoro de la catedral.",
     "The Custody of the Holy Land's museum.": "El museo de la Custodia de Tierra Santa.",
     "A local iconographers' group, drawing on the Barnabite Fathers' material; devotional.": "Un grupo local de iconógrafos, que se basa en el material de los padres barnabitas; devocional.",
-    "Record of the 2004 exhibition and catalogue that studied the Genoa image as a Byzantine icon.": "Registro de la exposición de 2004 y del catálogo que estudiaron la imagen de Génova como icono bizantino."
+    "Record of the 2004 exhibition and catalogue that studied the Genoa image as a Byzantine icon.": "Registro de la exposición de 2004 y del catálogo que estudiaron la imagen de Génova como icono bizantino.",
+    "—": "—"
   }
 }
