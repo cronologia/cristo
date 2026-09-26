@@ -1,12 +1,13 @@
 {
   "_meta": {
     "targetLang": "pt",
-    "coverage": "608/608",
+    "coverage": "610/610",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-09-25 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes (add the new key, delete the stale one). Proper names, reference titles, URLs, dates and ids are never translated. Portuguese follows the family's existing data caches (Brazilian usage); which variant the chrome speaks is open at cronologia/core#70.",
     "humanReviewed": false
   },
   "strings": {
+    "1983": "1983",
     "\"About A.D. 18\" (Catholic Encyclopedia); the bishops' Bible note gives Caiaphas's high priesthood as 18–36.": "«Por volta de 18 d.C.» (Catholic Encyclopedia); a nota da Bíblia dos bispos dá para o sumo sacerdócio de Caifás 18–36.",
     "\"The fifteenth year of Tiberius\": John the Baptist begins to preach": "«O décimo quinto ano de Tibério»: João Batista começa a pregar",
     "\"The first day of the week\" after the crucifixion — so 9 April 30 or 5 April 33, depending on the crucifixion year.": "«O primeiro dia da semana» após a crucificação — portanto 9 de abril de 30 ou 5 de abril de 33, conforme o ano da crucificação.",
@@ -614,6 +615,7 @@
     "The city museums' page on the cathedral treasury.": "A página dos museus municipais sobre o tesouro da catedral.",
     "The Custody of the Holy Land's museum.": "O museu da Custódia da Terra Santa.",
     "A local iconographers' group, drawing on the Barnabite Fathers' material; devotional.": "Um grupo local de iconógrafos, com base no material dos Padres Barnabitas; devocional.",
-    "Record of the 2004 exhibition and catalogue that studied the Genoa image as a Byzantine icon.": "Registro da exposição e do catálogo de 2004 que estudaram a imagem de Gênova como ícone bizantino."
+    "Record of the 2004 exhibition and catalogue that studied the Genoa image as a Byzantine icon.": "Registro da exposição e do catálogo de 2004 que estudaram a imagem de Gênova como ícone bizantino.",
+    "—": "—"
   }
 }
