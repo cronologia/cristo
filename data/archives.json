@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "snapshots": {
     "http://www.archiviovoltosanto.org/en/node/738": {
       "refId": "mandylion-2004",
@@ -13,6 +13,12 @@
       "archiveUrl": "https://web.archive.org/web/20260515172506/http://www.iconesacregenova.it/il-mandylion-di-genova",
       "timestamp": "20260515172506",
       "checkedAt": "2026-09-25"
+    },
+    "https://api.crossref.org/works/10.1111/arcm.12467": {
+      "refId": "casabianca-2019",
+      "archiveUrl": "https://web.archive.org/web/20260226090443/https://api.crossref.org/works/10.1111/arcm.12467",
+      "timestamp": "20260226090443",
+      "checkedAt": "2026-09-26"
     },
     "https://artbonus.gov.it/il-sacro-catino.html": {
       "refId": "artbonus-sacro-catino",
@@ -80,6 +86,12 @@
       "timestamp": "20260123223444",
       "checkedAt": "2026-09-25"
     },
+    "https://catedraldevalencia.es/en/the-holy-chalice/chronology-of-the-holy-chalice/": {
+      "refId": "valencia-caliz-chronology",
+      "archiveUrl": "https://web.archive.org/web/20260123024917/https://catedraldevalencia.es/en/the-holy-chalice/chronology-of-the-holy-chalice/",
+      "timestamp": "20260123024917",
+      "checkedAt": "2026-09-26"
+    },
     "https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/": {
       "refId": "cojs-caiaphas-ossuary",
       "archiveUrl": "https://web.archive.org/web/20260519060405/https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/",
@@ -140,6 +152,12 @@
       "timestamp": "20260630143654",
       "checkedAt": "2026-09-25"
     },
+    "https://saintetunique.com/foire-aux-questions/": {
+      "refId": "saintetunique-faq",
+      "archiveUrl": "https://web.archive.org/web/20250420010355/https://saintetunique.com/foire-aux-questions/",
+      "timestamp": "20250420010355",
+      "checkedAt": "2026-09-26"
+    },
     "https://saintetunique.com/la-tunique/": {
       "refId": "saintetunique-la-tunique",
       "archiveUrl": "https://web.archive.org/web/20260415223304/https://saintetunique.com/la-tunique/",
@@ -163,6 +181,12 @@
       "archiveUrl": "https://web.archive.org/web/20260421203059/https://sindone.org/la-sindone/dove-la-sindone/",
       "timestamp": "20260421203059",
       "checkedAt": "2026-09-25"
+    },
+    "https://sindone.org/la-sindone/lincendio/": {
+      "refId": "sindone-incendio",
+      "archiveUrl": "https://web.archive.org/web/20260421194859/https://sindone.org/la-sindone/lincendio/",
+      "timestamp": "20260421194859",
+      "checkedAt": "2026-09-26"
     },
     "https://sindone.org/ostensioni/1578-2/": {
       "refId": "sindone-1578",
@@ -205,6 +229,12 @@
       "archiveUrl": "https://web.archive.org/web/20240724183659/https://vias.univie.ac.at/forschung/archaeometallurgie/projekte/die-hl-lanze-des-kunsthistorischen-museums-wien/",
       "timestamp": "20240724183659",
       "checkedAt": "2026-09-25"
+    },
+    "https://whc.unesco.org/en/list/1433/": {
+      "refId": "unesco-1433",
+      "archiveUrl": "https://web.archive.org/web/20260920102807/https://whc.unesco.org/en/list/1433/",
+      "timestamp": "20260920102807",
+      "checkedAt": "2026-09-26"
     },
     "https://www.armenianchurch.org/en/Museums-at-the-Mother-See": {
       "refId": "etchmiadzin-museums",
@@ -290,6 +320,12 @@
       "timestamp": "20260921050703",
       "checkedAt": "2026-09-25"
     },
+    "https://www.heilig-rock-tage.de/": {
+      "refId": "heilig-rock-tage",
+      "archiveUrl": "https://web.archive.org/web/20251108163158/https://heilig-rock-tage.de/",
+      "timestamp": "20251108163158",
+      "checkedAt": "2026-09-26"
+    },
     "https://www.herodote.net/26_avril_1248-evenement-12480426.php": {
       "refId": "herodote-1248",
       "archiveUrl": "https://web.archive.org/web/20260914064822/https://www.herodote.net/26_avril_1248-evenement-12480426.php",
@@ -350,6 +386,12 @@
       "timestamp": "20241206064112",
       "checkedAt": "2026-09-25"
     },
+    "https://www.lejournaldesarts.fr/patrimoine/une-nouvelle-chasse-reliquaire-notre-dame-175908": {
+      "refId": "jda-chasse-2024",
+      "archiveUrl": "https://web.archive.org/web/20251018145931/https://www.lejournaldesarts.fr/patrimoine/une-nouvelle-chasse-reliquaire-notre-dame-175908",
+      "timestamp": "20251018145931",
+      "checkedAt": "2026-09-26"
+    },
     "https://www.linteum.com/el-santo-sudario-investigaciones-estudios.php": {
       "refId": "ces-sudario-investigaciones",
       "archiveUrl": "https://web.archive.org/web/20240602211347/https://www.linteum.com/el-santo-sudario-investigaciones-estudios.php",
@@ -373,6 +415,12 @@
       "archiveUrl": "https://web.archive.org/web/20260728034457/https://www.museoduomomonza.it/en/iron-crown/",
       "timestamp": "20260728034457",
       "checkedAt": "2026-09-25"
+    },
+    "https://www.museoduomomonza.it/en/iron-crown/the-cult-of-the-sacred-nail/": {
+      "refId": "monza-sacred-nail",
+      "archiveUrl": "https://web.archive.org/web/20250808173421/https://www.museoduomomonza.it/en/iron-crown/the-cult-of-the-sacred-nail/",
+      "timestamp": "20250808173421",
+      "checkedAt": "2026-09-26"
     },
     "https://www.museoduomomonza.it/en/iron-crown/the-iron-crown-as-a-work-of-art/": {
       "refId": "monza-iron-crown-art",
@@ -494,6 +542,12 @@
       "timestamp": "20260821231920",
       "checkedAt": "2026-09-25"
     },
+    "https://www.newadvent.org/cathen/12083c.htm": {
+      "refId": "ce-pilate",
+      "archiveUrl": "https://web.archive.org/web/20260918203442/https://www.newadvent.org/cathen/12083c.htm",
+      "timestamp": "20260918203442",
+      "checkedAt": "2026-09-26"
+    },
     "https://www.newadvent.org/cathen/13505a.htm": {
       "refId": "ce-scala-sancta",
       "archiveUrl": "https://web.archive.org/web/20260714112042/https://www.newadvent.org/cathen/13505a.htm",
@@ -584,6 +638,12 @@
       "timestamp": "20260904141537",
       "checkedAt": "2026-09-25"
     },
+    "https://www.terrasanctamuseum.org/en/a-relic-of-the-holy-cradle-returns-to-the-holy-land-and-its-connection-to-the-holy-land-museum/": {
+      "refId": "terrasanta-museum-culla",
+      "archiveUrl": "https://web.archive.org/web/20251228121027/https://www.terrasanctamuseum.org/en/a-relic-of-the-holy-cradle-returns-to-the-holy-land-and-its-connection-to-the-holy-land-museum/",
+      "timestamp": "20251228121027",
+      "checkedAt": "2026-09-26"
+    },
     "https://www.trierer-dom.de/bauwerk/der-heilige-rock/wallfahrten/index.html": {
       "refId": "trier-dom-wallfahrten",
       "archiveUrl": "https://web.archive.org/web/20260616083938/https://www.trierer-dom.de/bauwerk/der-heilige-rock/wallfahrten/index.html",
@@ -673,6 +733,12 @@
       "archiveUrl": "https://web.archive.org/web/20260517121925/https://www.voltosanto.it/orario-messe-e-confessioni/",
       "timestamp": "20260517121925",
       "checkedAt": "2026-09-25"
+    },
+    "https://www.voltosanto.it/storia/": {
+      "refId": "voltosanto-storia",
+      "archiveUrl": "https://web.archive.org/web/20260517111139/https://www.voltosanto.it/storia/",
+      "timestamp": "20260517111139",
+      "checkedAt": "2026-09-26"
     }
   }
 }
