@@ -178,6 +178,9 @@ const UI = {
     // The archive-copy link in the reference list; was hardcoded English on
     // every localized page.
     archivedLabel: 'archived',
+    // Relic history strips (cristo#14).
+    relicHistory: 'Where the record places it', relicToday: 'today',
+    relicHistoryNote: 'A dot is a dated event that places the object; a solid line joins two in the same place; a hatched stretch means it moved, and the date of the move is not in this record. The last dot is where it is kept today.',
     refTypes: {
       news: 'news', academic: 'academic', archive: 'archive', official: 'official',
       encyclopedia: 'encyclopedia', web: 'web', corpus: 'corpus', database: 'database',
@@ -268,6 +271,9 @@ const UI = {
     // link back to the full list.
     citeLabel: 'Referencia', citeAll: 'Todas las referencias',
     archivedLabel: 'archivado',
+    // Relic history strips (cristo#14).
+    relicHistory: 'Dónde lo sitúa el registro', relicToday: 'hoy',
+    relicHistoryNote: 'Un punto es un acontecimiento fechado que sitúa el objeto; una línea continua une dos en el mismo lugar; un tramo rayado indica que cambió de lugar y que la fecha del traslado no consta en este registro. El último punto es donde se conserva hoy.',
     refTypes: {
       news: 'prensa', academic: 'académico', archive: 'archivo', official: 'oficial',
       encyclopedia: 'enciclopedia', web: 'web', corpus: 'corpus', database: 'base de datos',
@@ -361,6 +367,9 @@ const UI = {
     // link back to the full list.
     citeLabel: 'Referência', citeAll: 'Todas as referências',
     archivedLabel: 'arquivado',
+    // Relic history strips (cristo#14).
+    relicHistory: 'Onde o registro o situa', relicToday: 'hoje',
+    relicHistoryNote: 'Um ponto é um acontecimento datado que situa o objeto; uma linha contínua une dois no mesmo lugar; um trecho hachurado indica que mudou de lugar e que a data da mudança não consta deste registro. O último ponto é onde é conservado hoje.',
     refTypes: {
       news: 'imprensa', academic: 'acadêmico', archive: 'arquivo', official: 'oficial',
       encyclopedia: 'enciclopédia', web: 'web', corpus: 'corpus', database: 'base de dados',
@@ -2162,7 +2171,63 @@ function osmLink(geo) {
   return `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=18/${lat}/${lon}`;
 }
 
-function renderCatalogue(cat, places, world, refNumById, ui) {
+/**
+ * Relic history strips (cristo#14). An event that documents where a catalogued
+ * object was carries `relics: [{ id, place }]` - the catalogue item, and where
+ * THAT EVENT puts the object (not where the event happened: d'Arcis wrote from
+ * Troyes about the cloth at Lirey). Each card then shows the object's recorded
+ * whereabouts: a dot per sighting, a solid line between consecutive sightings
+ * in the same place, and a hatched stretch between sightings in different
+ * places - the move is real, its date is not in this record. Nothing is drawn
+ * that no event attests; ADR-0007 in picture form. The list under the strip is
+ * the text equivalent, every year cited.
+ */
+function relicSightings(itemId, events) {
+  const out = [];
+  (events || []).forEach((ev) => {
+    for (const r of ev.relics || []) if (r && r.id === itemId) out.push({ year: ev.year, place: r.place, ev });
+  });
+  return out.sort((a, b) => a.year - b.year);
+}
+
+function renderRelicStrip(item, events, refNumById, t, nowYear) {
+  const s = relicSightings(item.id, events);
+  if (s.length === 0) return '';
+  const lo = s[0].year;
+  const hi = Math.max(nowYear, s[s.length - 1].year);
+  const pct = (y) => (hi === lo ? 0 : ((y - lo) / (hi - lo)) * 100);
+  const bars = [];
+  for (let i = 0; i + 1 < s.length; i++) {
+    const a = s[i], b = s[i + 1];
+    if (b.year === a.year) continue;
+    bars.push(`<i class="${a.place === b.place ? 'rh-stay' : 'rh-move'}" style="left:${r1f(pct(a.year))}%;width:${r1f(pct(b.year) - pct(a.year))}%"></i>`);
+  }
+  // Today: the card's own "where kept" (cited by the card) is the last point.
+  // Same city as the last sighting: the line runs on; otherwise that stretch
+  // is a move whose date the record does not give.
+  const last = s[s.length - 1];
+  const city = String(last.place).split(',')[0].trim();
+  if (hi > last.year) {
+    bars.push(`<i class="${String(item.site || '').includes(city) ? 'rh-stay' : 'rh-move'}" style="left:${r1f(pct(last.year))}%;width:${r1f(100 - pct(last.year))}%"></i>`);
+  }
+  const dots = s.map((x) => `<b style="left:${r1f(pct(x.year))}%"></b>`).join('') + `<b class="rh-now" style="left:100%"></b>`;
+  // Consecutive sightings in one place read as one line of the list.
+  const groups = [];
+  for (const x of s) {
+    const g = groups[groups.length - 1];
+    if (g && g.place === x.place) g.items.push(x); else groups.push({ place: x.place, items: [x] });
+  }
+  const li = groups.map((g) => `<li><span class="rh-place">${esc(g.place)}</span> ${g.items.map((x) =>
+    `${esc(yearLabel(x.year, t))}${renderCites(x.ev.sources, refNumById)}`).join(', ')}</li>`).join('');
+  return `          <div class="rh">
+            <p class="rh-h">${esc(t.relicHistory)} <span>${esc(yearLabel(lo, t))}–${esc(t.relicToday)}</span></p>
+            <div class="rh-bar" aria-hidden="true">${bars.join('')}${dots}</div>
+            <ul class="rh-list">${li}</ul>
+            <p class="rh-note">${esc(t.relicHistoryNote)}</p>
+          </div>\n`;
+}
+
+function renderCatalogue(cat, places, world, refNumById, ui, events, nowYear) {
   const layout = layoutCatalogue(cat, places);
   if (!layout) return '';
   const t = ui || UI.en;
@@ -2230,7 +2295,7 @@ ${figure}          <h3><span class="cat-num">${n}</span> ${esc(it.name)}</h3>
           <dl>
 ${where ? `            <dt>${esc(t.catWhere)}</dt><dd>${where}</dd>\n` : ''}${row(t.catObject, it.object)}${row(t.catVisibility, it.visibility)}${row(t.catAttested, it.attested)}${row(t.catDating, it.dating)}${row(t.catChurch, it.church)}          </dl>
           <p class="cat-cites">${renderCites(it.sources, refNumById)}</p>
-        </article>`;
+${renderRelicStrip(it, events, refNumById, t, nowYear)}        </article>`;
   }).join('\n');
 
   return `    <section id="catalogue" class="viz catalogue">
@@ -2664,7 +2729,7 @@ function renderPage(data, archives, opts = {}) {
   const chronologySpineHtml = renderChronologySpine(chronologySpine, events, ui);
   const approvalLadderHtml = renderApprovalLadder(data.approvalLadder, refNumById, ui);
   const placesMapHtml = renderPlacesMap(placesMap, events, opts.places, opts.world, ui);
-  const catalogueHtml = renderCatalogue(data.catalogue, opts.places, opts.world, refNumById, ui);
+  const catalogueHtml = renderCatalogue(data.catalogue, opts.places, opts.world, refNumById, ui, events, parseInt(String(meta.lastUpdated), 10) || 0);
   const tierMapHtml = renderTierMap(tierMap, refNumById, ui);
   const swimlanesHtml = renderSwimlanes(threads, events, refNumById, ui);
 
@@ -2858,6 +2923,7 @@ module.exports = {
   PLACE_COMPOUND_SEP, placeIndex, resolvePlaceString, layoutPlacesMap, renderPlacesMap,
   layoutCatalogue, renderCatalogue, osmLink, CATALOGUE_LICENSES,
   layoutRiver, renderRiver, RIVER_LAYOUTS, renderDateClaims, renderRiverRibbon,
+  relicSightings, renderRelicStrip,
   loadPlaces, loadWorld,
   renderPage,
   LOCALES, ROUTES, OG_LOCALE, UI, loadDict, loadDictMeta, disclaimerFor, renderApprovalLadder, ladderRungs, STATUS_GLYPH,

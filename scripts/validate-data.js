@@ -139,6 +139,23 @@ else {
   });
 }
 
+// ---- relic sightings (cristo#14) -------------------------------------------
+// An event that places a catalogued object says which one and WHERE THE EVENT
+// PUTS IT - not where the event happened (a bishop's memo written in Troyes
+// about the cloth at Lirey). The catalogue card draws only what these attest.
+if (isArr(d.events)) {
+  const catIds = new Set(((d.catalogue && d.catalogue.items) || []).map((it) => it && it.id));
+  d.events.forEach((ev, i) => {
+    if (ev.relics === undefined) return;
+    const at = `events[${i}].relics`;
+    if (!isArr(ev.relics) || ev.relics.length === 0) return err(`${at} must be a non-empty array of { id, place }`);
+    ev.relics.forEach((r, j) => {
+      if (!r || !catIds.has(r.id)) err(`${at}[${j}].id "${r && r.id}" is not a catalogue item`);
+      if (!r || !isStr(r.place)) err(`${at}[${j}].place missing: where this event places the object`);
+    });
+  });
+}
+
 if (isArr(d.events)) {
   const n = d.events.filter((e) => e && e.highlight !== undefined).length;
   if (n > 6) err(`events: ${n} highlighted; the ribbon names at most 6 key events (core#3)`);

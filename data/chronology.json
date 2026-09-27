@@ -690,6 +690,9 @@
       "text": "At the solemn opening of the Arca Santa before King Alfonso VI, the relics listed include \"de sudario Domini\", per the cathedral — the first unambiguous attestation of the cloth now called the Sudarium of Oviedo. The cathedral's account of the ark's journey from Jerusalem in 614 is its tradition.",
       "sources": [
         "oviedo-camara"
+      ],
+      "relics": [
+        { "id": "sudarium-oviedo", "place": "Oviedo, Spain" }
       ]
     },
     {
@@ -718,6 +721,9 @@
       "text": "Guglielmo Embriaco brings to Genoa a green hexagonal dish long held to be emerald and later called the Holy Grail, per the Italian Ministry of Culture. In 1806 it was established to be glass.",
       "sources": [
         "artbonus-sacro-catino"
+      ],
+      "relics": [
+        { "id": "sacro-catino-genoa", "place": "Genoa, Italy" }
       ]
     },
     {
@@ -731,6 +737,9 @@
       "text": "A charter records an exposition of the tunic at Argenteuil organised by the Archbishop of Rouen in the presence of Louis VII — the first attestation, per the custodian parish, whose tradition dates the tunic's arrival to Charlemagne's time.",
       "sources": [
         "saintetunique-la-tunique"
+      ],
+      "relics": [
+        { "id": "tunic-argenteuil", "place": "Argenteuil, France" }
       ]
     },
     {
@@ -760,6 +769,9 @@
       "sources": [
         "trier-faq",
         "trier-geschichte"
+      ],
+      "relics": [
+        { "id": "tunic-trier", "place": "Trier, Germany" }
       ]
     },
     {
@@ -774,6 +786,9 @@
       "text": "Having redeemed the Crown from the Venetian bankers to whom the Latin emperors of Constantinople had pledged it, Louis IX receives it at Villeneuve-l'Archevêque on 10 August and carries it barefoot into Paris on 19 August, per the Diocese of Paris.",
       "sources": [
         "dioceseparis-couronne"
+      ],
+      "relics": [
+        { "id": "crown-of-thorns", "place": "Paris, France" }
       ]
     },
     {
@@ -790,6 +805,9 @@
         "herodote-1248",
         "ce-crown-of-thorns",
         "dioceseparis-couronne"
+      ],
+      "relics": [
+        { "id": "crown-of-thorns", "place": "Paris, France" }
       ]
     },
     {
@@ -803,6 +821,9 @@
       "text": "A by-law of the Bruges porters' guild contains the oldest mention of the procession, per the Basilica of the Holy Blood — which also records that most historians strongly doubt the story of the relic's arrival in 1150 and trace the oldest reliable sources to the 13th century.",
       "sources": [
         "holyblood-relic"
+      ],
+      "relics": [
+        { "id": "holy-blood-bruges", "place": "Bruges, Belgium" }
       ]
     },
     {
@@ -818,6 +839,9 @@
       "sources": [
         "ce-troyes",
         "ce-shroud"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Lirey, France" }
       ],
       "dateClaims": [
         {"year": 1353, "by": "The founding of the Lirey church, 20 June 1353, in the Catholic Encyclopedia's \"Troyes\"", "sources": ["ce-troyes"]},
@@ -837,6 +861,9 @@
       "sources": [
         "darcis-memo",
         "ce-shroud"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Lirey, France" }
       ]
     },
     {
@@ -853,6 +880,9 @@
       "sources": [
         "ce-troyes",
         "ce-shroud"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Lirey, France" }
       ]
     },
     {
@@ -868,6 +898,9 @@
       "sources": [
         "leiden-titulus",
         "santacroce-reliquie"
+      ],
+      "relics": [
+        { "id": "titulus-crucis", "place": "Rome, Italy" }
       ]
     },
     {
@@ -882,6 +915,9 @@
       "sources": [
         "vaticannews-reliquie-2024",
         "ce-holy-lance"
+      ],
+      "relics": [
+        { "id": "lance-vatican", "place": "Vatican City" }
       ]
     },
     {
@@ -896,6 +932,9 @@
       "text": "A fire in the Savoy chapel at Chambéry leaves the burn lines and holes still visible on the cloth, per the custodian archdiocese.",
       "sources": [
         "sindone-cose"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Chambéry, France" }
       ]
     },
     {
@@ -923,6 +962,9 @@
       "text": "The Dukes of Savoy move the cloth from Chambéry to Turin — to shorten the pilgrimage of Archbishop Carlo Borromeo of Milan, per the custodian archdiocese.",
       "sources": [
         "sindone-1578"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -936,6 +978,9 @@
       "text": "Archbishop Carlo Borromeo establishes the cult of the Sacred Nail \"to make official the recognition of the diadem as a relic\", per the Monza cathedral museum — an act of cult about the Iron Crown's inner band. The same museum reports recent studies dating the crown to between the 4th–5th and the 9th centuries.",
       "sources": [
         "monza-iron-crown"
+      ],
+      "relics": [
+        { "id": "iron-crown-monza", "place": "Monza, Italy" }
       ]
     },
     {
@@ -950,6 +995,9 @@
       "sources": [
         "ce-scala-sancta",
         "scala-santa"
+      ],
+      "relics": [
+        { "id": "scala-sancta", "place": "Rome, Italy" }
       ]
     },
     {
@@ -964,6 +1012,9 @@
       "text": "After the Revolution moved it to Saint-Denis and the national library, the Crown is handed to the Archbishop of Paris and placed in the treasury of Notre-Dame, per the Diocese of Paris.",
       "sources": [
         "dioceseparis-couronne"
+      ],
+      "relics": [
+        { "id": "crown-of-thorns", "place": "Paris, France" }
       ]
     },
     {
@@ -978,6 +1029,9 @@
       "text": "By the constitution Decet Romanum Pontificem, and a second act of 1854, Pius IX gives the sanctuary's custody to the Passionist Fathers, per the sanctuary — acts about custody, not about the stairs' origin.",
       "sources": [
         "scala-santa-chi-siamo"
+      ],
+      "relics": [
+        { "id": "scala-sancta", "place": "Rome, Italy" }
       ]
     },
     {
@@ -1007,6 +1061,9 @@
       "text": "During an exposition, the lawyer Secondo Pia, authorised by the House of Savoy, photographs the cloth for the first time; his negative shows a positive-looking image, per the custodian archdiocese.",
       "sources": [
         "sindone-1898"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1022,6 +1079,9 @@
         "sindone-1978",
         "sturp-summary",
         "mccrone-1990"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1037,6 +1097,9 @@
       "sources": [
         "sindone-dove",
         "sindone-custode"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1067,6 +1130,9 @@
       "text": "Fire destroys Guarini's chapel; the cloth, moved to the choir in 1993, is carried to safety and found to have suffered no damage, per the custodian.",
       "sources": [
         "sindone-incendio"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1081,6 +1147,9 @@
       "text": "Visiting the exposition, John Paul II says: \"Since it is not a matter of faith, the Church has no specific competence to pronounce on these questions. She entrusts to scientists the task of continuing to investigate\". He calls the cloth \"a mirror of the Gospel\" — a devotional reading, not a verdict either way.",
       "sources": [
         "jp2-1998"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1094,6 +1163,9 @@
       "text": "Physicists of Roma Tre University report in Radiocarbon that the walnut tablet dates to AD 980–1146 (two sigma), and note that this \"permits one to consider\" that it is a copy of an original. The result is the laboratory's.",
       "sources": [
         "bella-azzi-2002"
+      ],
+      "relics": [
+        { "id": "titulus-crucis", "place": "Rome, Italy" }
       ]
     },
     {
@@ -1108,6 +1180,9 @@
       "sources": [
         "saintetunique-la-tunique",
         "wp-argenteuil"
+      ],
+      "relics": [
+        { "id": "tunic-argenteuil", "place": "Argenteuil, France" }
       ]
     },
     {
@@ -1123,6 +1198,9 @@
       "sources": [
         "vias-lanze",
         "khm-heilige-lanze"
+      ],
+      "relics": [
+        { "id": "lance-vienna", "place": "Vienna, Austria" }
       ]
     },
     {
@@ -1138,6 +1216,9 @@
       "sources": [
         "b16-manoppello-2006",
         "manoppello-veronica"
+      ],
+      "relics": [
+        { "id": "volto-santo-manoppello", "place": "Manoppello, Italy" }
       ]
     },
     {
@@ -1152,6 +1233,9 @@
       "text": "At the 2010 exposition the pope describes the cloth as \"an Icon written in blood\" — a devotional reading, recorded as an act of cult.",
       "sources": [
         "b16-2010"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1167,6 +1251,9 @@
       "text": "The most recent Trier pilgrimage. The cathedral, which keeps the tunic out of sight in a climate-controlled case, states that \"the question of the Holy Robe's authenticity cannot be answered with certainty\".",
       "sources": [
         "trier-dom-wallfahrten"
+      ],
+      "relics": [
+        { "id": "tunic-trier", "place": "Trier, Germany" }
       ]
     },
     {
@@ -1181,6 +1268,9 @@
       "text": "After restoration, the 28 steps are shown without their wooden covering for 60 days, \"for the first time after almost 300 years\", per the Vatican Museums.",
       "sources": [
         "musei-vaticani-scala-2019"
+      ],
+      "relics": [
+        { "id": "scala-sancta", "place": "Rome, Italy" }
       ]
     },
     {
@@ -1196,6 +1286,9 @@
       "sources": [
         "europe1-fournier-2019",
         "dioceseparis-couronne"
+      ],
+      "relics": [
+        { "id": "crown-of-thorns", "place": "Paris, France" }
       ]
     },
     {
@@ -1211,6 +1304,9 @@
       "sources": [
         "vaticannews-culla-2019",
         "smm-sacra-culla"
+      ],
+      "relics": [
+        { "id": "holy-crib-rome", "place": "Rome, Italy" }
       ]
     },
     {
@@ -1226,6 +1322,9 @@
       "sources": [
         "dioceseparis-couronne",
         "jda-chasse-2024"
+      ],
+      "relics": [
+        { "id": "crown-of-thorns", "place": "Paris, France" }
       ]
     },
     {
@@ -1240,6 +1339,9 @@
       "text": "Answering claims published in 2025, the Pontifical Custodian, Cardinal Roberto Repole, states that he \"has no reason to enter into the merits of hypotheses freely put forward by scientists\".",
       "sources": [
         "sindone-comunicato-2025"
+      ],
+      "relics": [
+        { "id": "shroud-turin", "place": "Turin, Italy" }
       ]
     },
     {
@@ -1255,6 +1357,9 @@
       "sources": [
         "bsp-veronica-2026",
         "pv-veronica-2025"
+      ],
+      "relics": [
+        { "id": "veronica-rome", "place": "Vatican City" }
       ]
     },
     {
@@ -1269,6 +1374,10 @@
       "text": "The basilica announces that its Chapel of the Relics — which holds the Cross fragments, the Titulus and a Nail — is temporarily closed by order of the Vicariate of Rome and the Ministry of Culture.",
       "sources": [
         "santacroce-reliquie"
+      ],
+      "relics": [
+        { "id": "titulus-crucis", "place": "Rome, Italy" },
+        { "id": "true-cross-santa-croce", "place": "Rome, Italy" }
       ]
     }
   ],
