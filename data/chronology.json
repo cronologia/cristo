@@ -179,6 +179,10 @@
         "usccb-matthew-2",
         "ce-chronology-jesus",
         "ce-general-chronology"
+      ],
+      "dateClaims": [
+        {"year": -7, "to": -5, "by": "Maas (Catholic Encyclopedia, 1910), reckoning from Herod's death and Matthew 2:16", "sources": ["ce-chronology-jesus"]},
+        {"year": -4, "by": "The date \"many\" hold, as the Catholic Encyclopedia's \"General Chronology\" reports", "sources": ["ce-general-chronology"]}
       ]
     },
     {
@@ -270,6 +274,11 @@
       "sources": [
         "usccb-luke-3",
         "ce-chronology-jesus"
+      ],
+      "dateClaims": [
+        {"year": 25, "to": 26, "by": "Maas (Catholic Encyclopedia), one of his two reckonings", "sources": ["ce-chronology-jesus"]},
+        {"year": 27, "to": 29, "by": "The U.S. bishops' Bible note on Luke 3:1", "sources": ["usccb-luke-3"]},
+        {"year": 29, "by": "Maas, his other reckoning", "sources": ["ce-chronology-jesus"]}
       ]
     },
     {
@@ -305,6 +314,11 @@
         "humphreys-waddington-1992",
         "humphreys-waddington-1983",
         "ce-chronology-jesus"
+      ],
+      "dateClaims": [
+        {"year": 29, "by": "A patristic tradition, as cited by Maas (Catholic Encyclopedia)", "sources": ["ce-chronology-jesus"]},
+        {"year": 30, "by": "Friday 7 April 30: \"also strongly supported\", in Humphreys and Waddington's words", "sources": ["humphreys-waddington-1992"]},
+        {"year": 33, "by": "Friday 3 April 33: the date Humphreys and Waddington favour", "sources": ["humphreys-waddington-1992", "humphreys-waddington-1983"]}
       ]
     },
     {
@@ -498,6 +512,10 @@
         "eusebius-vc-4",
         "wp-holy-sepulchre",
         "ce-holy-sepulchre"
+      ],
+      "dateClaims": [
+        {"year": 335, "by": "13 September 335, per the tertiary source", "sources": ["wp-holy-sepulchre"]},
+        {"year": 336, "by": "The Catholic Encyclopedia", "sources": ["ce-holy-sepulchre"]}
       ]
     },
     {
@@ -528,6 +546,10 @@
         "ce-dionysius-exiguus",
         "ce-general-chronology",
         "wp-dionysius-easter-table"
+      ],
+      "dateClaims": [
+        {"year": 525, "by": "The tertiary source", "sources": ["wp-dionysius-easter-table"]},
+        {"year": 527, "by": "\"About the year 527\", per the Catholic Encyclopedia's \"General Chronology\"", "sources": ["ce-general-chronology"]}
       ]
     },
     {
@@ -630,6 +652,10 @@
         "custodia-holy-sepulchre",
         "ce-jerusalem",
         "ce-holy-lance"
+      ],
+      "dateClaims": [
+        {"year": 614, "by": "The Custody of the Holy Land, and the Catholic Encyclopedia's \"Jerusalem\"", "sources": ["custodia-holy-sepulchre", "ce-jerusalem"]},
+        {"year": 615, "by": "The Catholic Encyclopedia's \"Holy Lance\"", "sources": ["ce-holy-lance"]}
       ]
     },
     {
@@ -645,6 +671,10 @@
       "sources": [
         "custodia-holy-sepulchre",
         "ce-jerusalem"
+      ],
+      "dateClaims": [
+        {"year": 629, "by": "The Catholic Encyclopedia", "sources": ["ce-jerusalem"]},
+        {"year": 630, "by": "The Custody of the Holy Land", "sources": ["custodia-holy-sepulchre"]}
       ]
     },
     {
@@ -788,6 +818,10 @@
       "sources": [
         "ce-troyes",
         "ce-shroud"
+      ],
+      "dateClaims": [
+        {"year": 1353, "by": "The founding of the Lirey church, 20 June 1353, in the Catholic Encyclopedia's \"Troyes\"", "sources": ["ce-troyes"]},
+        {"year": 1360, "by": "\"We first hear of it about the year 1360\", in its \"Holy Shroud\"", "sources": ["ce-shroud"]}
       ]
     },
     {

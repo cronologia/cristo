@@ -1,7 +1,7 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "610/610",
+    "coverage": "627/627",
     "generatedBy": "hand-authored by the assistant (Claude) during the 2026-09-25 bootstrap — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; re-author these entries whenever the English prose changes (add the new key, delete the stale one). Proper names, reference titles, URLs, dates and ids are never translated.",
     "humanReviewed": false
@@ -616,6 +616,23 @@
     "The Custody of the Holy Land's museum.": "El museo de la Custodia de Tierra Santa.",
     "A local iconographers' group, drawing on the Barnabite Fathers' material; devotional.": "Un grupo local de iconógrafos, que se basa en el material de los padres barnabitas; devocional.",
     "Record of the 2004 exhibition and catalogue that studied the Genoa image as a Byzantine icon.": "Registro de la exposición de 2004 y del catálogo que estudiaron la imagen de Génova como icono bizantino.",
-    "—": "—"
+    "—": "—",
+    "Maas (Catholic Encyclopedia, 1910), reckoning from Herod's death and Matthew 2:16": "Maas (Catholic Encyclopedia, 1910), calculando a partir de la muerte de Herodes y de Mateo 2,16",
+    "The date \"many\" hold, as the Catholic Encyclopedia's \"General Chronology\" reports": "La fecha que sostienen «muchos», según consigna el artículo «General Chronology» de la Catholic Encyclopedia",
+    "Maas (Catholic Encyclopedia), one of his two reckonings": "Maas (Catholic Encyclopedia), uno de sus dos cálculos",
+    "The U.S. bishops' Bible note on Luke 3:1": "La nota de la Biblia de los obispos de EE. UU. a Lucas 3,1",
+    "Maas, his other reckoning": "Maas, su otro cálculo",
+    "A patristic tradition, as cited by Maas (Catholic Encyclopedia)": "Una tradición patrística, citada por Maas (Catholic Encyclopedia)",
+    "Friday 7 April 30: \"also strongly supported\", in Humphreys and Waddington's words": "Viernes 7 de abril del 30: «también muy respaldada», en palabras de Humphreys y Waddington",
+    "Friday 3 April 33: the date Humphreys and Waddington favour": "Viernes 3 de abril del 33: la fecha que prefieren Humphreys y Waddington",
+    "13 September 335, per the tertiary source": "13 de septiembre del 335, según la fuente terciaria",
+    "The Catholic Encyclopedia": "La Catholic Encyclopedia",
+    "The tertiary source": "La fuente terciaria",
+    "\"About the year 527\", per the Catholic Encyclopedia's \"General Chronology\"": "«Hacia el año 527», según el artículo «General Chronology» de la Catholic Encyclopedia",
+    "The Custody of the Holy Land, and the Catholic Encyclopedia's \"Jerusalem\"": "La Custodia de Tierra Santa y el artículo «Jerusalem» de la Catholic Encyclopedia",
+    "The Catholic Encyclopedia's \"Holy Lance\"": "El artículo «Holy Lance» de la Catholic Encyclopedia",
+    "The Custody of the Holy Land": "La Custodia de Tierra Santa",
+    "The founding of the Lirey church, 20 June 1353, in the Catholic Encyclopedia's \"Troyes\"": "La fundación de la iglesia de Lirey, el 20 de junio de 1353, en el artículo «Troyes» de la Catholic Encyclopedia",
+    "\"We first hear of it about the year 1360\", in its \"Holy Shroud\"": "«Oímos hablar de ella por primera vez hacia el año 1360», en su artículo «Holy Shroud»"
   }
 }
