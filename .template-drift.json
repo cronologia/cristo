@@ -1,0 +1,12 @@
+{
+  "customized": {
+    "renderCatalogue": {
+      "reason": "relic history strips (cristo#14): each catalogue card shows where the dated record places its object; needs the events and the dataset's year",
+      "base": "a7eac32fef85"
+    },
+    "renderPage": {
+      "reason": "passes the events and meta.lastUpdated's year to renderCatalogue for the relic history strips (cristo#14)",
+      "base": "ad7f7a46fe89"
+    }
+  }
+}

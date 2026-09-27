@@ -593,6 +593,22 @@ figure.approval-ladder { margin: 0 0 1rem; }
   .cat-img img { height: auto; max-height: 180px; object-fit: contain; }
 }
 
+/* Relic history strips (cristo#14): where the dated record places each object.
+   A dot per sighting; solid between two in one place; hatched where it moved
+   and the record does not date the move. */
+.rh { margin: .6rem 0 0; font-size: .84rem; }
+.rh-h { margin: 0 0 .35rem; font-size: .72rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.rh-h span { font-weight: 600; letter-spacing: 0; text-transform: none; margin-left: .3rem; }
+.rh-bar { position: relative; height: 12px; margin: 0 .35rem .4rem; }
+.rh-bar i { position: absolute; top: 4px; height: 4px; }
+.rh-bar .rh-stay { background: var(--accent); }
+.rh-bar .rh-move { background: repeating-linear-gradient(90deg, var(--muted) 0 3px, transparent 3px 6px); opacity: .7; }
+.rh-bar b { position: absolute; top: 1px; width: 10px; height: 10px; margin-left: -5px; border-radius: 50%; background: var(--accent); border: 2px solid var(--surface); }
+.rh-bar b.rh-now { background: var(--surface); border-color: var(--accent); }
+.rh-list { margin: 0; padding-left: 1.1rem; }
+.rh-list li { margin: .1rem 0; }
+.rh-place { font-weight: 700; }
+.rh-note { margin: .3rem 0 0; font-size: .74rem; color: var(--muted); }
 /* ---------------------------------------------------------------------------
    Time river (core#108): the chronology as lane tracks, opt-in with
    meta.layout "river". A single-track river takes the site accent. With a
@@ -763,6 +779,14 @@ sup.cite a[aria-expanded] { text-decoration: underline; }
   h2, h3 { break-after: avoid; page-break-after: avoid; }
   .notice, ol.references li, .rv-claims { break-inside: avoid; page-break-inside: avoid; }
   .rv-empty, .rv-status { display: none; }
+}
+
+/* This site's own rules for dark mode: rules that exist only in this
+   stylesheet and use the accent as a fill. Kept above the core block so a
+   re-sync of that block leaves them alone. */
+@media screen and (prefers-color-scheme: dark) {
+  .rh-bar .rh-stay, .rh-bar b { background: var(--accent-hi); }
+  .rh-bar b.rh-now { background: var(--surface); border-color: var(--accent-hi); }
 }
 
 /* ---------------------------------------------------------------------------
