@@ -1,6 +1,6 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "snapshots": {
     "http://www.archiviovoltosanto.org/en/node/738": {
       "refId": "mandylion-2004",
@@ -109,6 +109,19 @@
       "archiveUrl": "https://web.archive.org/web/20260209202602/https://deremilitari.org/2014/01/the-battle-of-hattin-1187-four-accounts/",
       "timestamp": "20260209202602",
       "checkedAt": "2026-09-25"
+    },
+    "https://dioceseparis.fr/-la-sainte-couronne-d-epines-de-.html": {
+      "refId": "dioceseparis-couronne",
+      "archiveUrl": "https://web.archive.org/web/20260927155502/https://dioceseparis.fr/-la-sainte-couronne-d-epines-de-.html",
+      "timestamp": "20260927155502",
+      "checkedAt": "2026-09-27"
+    },
+    "https://doi.org/10.1021/ar00171a004": {
+      "refId": "mccrone-1990",
+      "archiveUrl": "https://web.archive.org/web/20230123220141/https://pubs.acs.org/doi/10.1021/ar00171a004",
+      "timestamp": "20230123220141",
+      "via": "https://pubs.acs.org/doi/10.1021/ar00171a004",
+      "checkedAt": "2026-09-27"
     },
     "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre": {
       "refId": "wp-holy-sepulchre",
@@ -434,6 +447,12 @@
       "timestamp": "20260728034457",
       "checkedAt": "2026-09-25"
     },
+    "https://www.museoduomomonza.it/en/opening-hours/": {
+      "refId": "monza-opening-hours",
+      "archiveUrl": "https://web.archive.org/web/20260927155552/https://www.museoduomomonza.it/en/opening-hours/",
+      "timestamp": "20260927155552",
+      "checkedAt": "2026-09-27"
+    },
     "https://www.nature.com/articles/306743a0": {
       "refId": "humphreys-waddington-1983",
       "archiveUrl": "https://web.archive.org/web/20250418222707/https://www.nature.com/articles/306743a0",
@@ -649,6 +668,13 @@
       "archiveUrl": "https://web.archive.org/web/20251228121027/https://www.terrasanctamuseum.org/en/a-relic-of-the-holy-cradle-returns-to-the-holy-land-and-its-connection-to-the-holy-land-museum/",
       "timestamp": "20251228121027",
       "checkedAt": "2026-09-26"
+    },
+    "https://www.trierer-dom.de/bauwerk/der-heilige-rock/index.html": {
+      "refId": "trier-dom-heiliger-rock",
+      "archiveUrl": "https://web.archive.org/web/20260901065938/https://www.trierer-dom.de/bauwerk/der-heilige-rock/uebersicht/",
+      "timestamp": "20260901065938",
+      "via": "https://www.trierer-dom.de/bauwerk/der-heilige-rock/uebersicht/",
+      "checkedAt": "2026-09-27"
     },
     "https://www.trierer-dom.de/bauwerk/der-heilige-rock/wallfahrten/index.html": {
       "refId": "trier-dom-wallfahrten",
